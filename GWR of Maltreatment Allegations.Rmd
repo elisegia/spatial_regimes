@@ -1,0 +1,353 @@
+---
+title: "GWR of Maltreatment Allegations in San Diego"
+author: "Gia Elise Barboza"
+date: "January 24, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options("scipen"=999, "digits"=4)
+library(spdep)
+library(rgdal)
+library(sp)
+library(car)
+library(spgwr)
+library(colorRamps)
+library(GWmodel)
+library(RColorBrewer)
+library(spgwr)
+library(gridExtra)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+
+m <-readOGR(dsn = ".", layer = "merged")
+d <- read.csv("conference_data.csv")
+names(d)[2]<-"GEOID"
+
+
+m$ccare_rate <- (m$ccare / (m$E_AGE17/2)) * 1000
+m$fcare_rate <- (m$fm_cntr / (m$E_AGE17/2)) * 1000
+m$hcare_rate <- (m$cmmhlth / (m$E_AGE17/2)) * 1000
+
+m$care <- m$ccare_rate + m$fcare_rate + m$hcare_rate
+m$alegrate <- as.numeric(as.character(m$alegrat))
+
+m <- merge(m, d, by='GEOID')
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+coords = coordinates(m)
+sd.knn = knearneigh(coords,k=4)
+sd.nb = knn2nb(sd.knn)
+sd.listw = nb2listw(sd.nb)
+
+plot(sd.nb,coords)
+box()
+title(main="Spatial Weights using Kth Nearest Neighbour")
+
+sd <- m@data
+
+
+lm.r =  lm(log(alegrate+1) ~ 1 , data=sd)
+summary(lm.r)
+lm.morantest(lm.r, sd.listw)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+m$pop2mi <- as.numeric(as.character(m$totpop))/m$areasm
+sd <- m@data
+myvars <- c("GEOID", "alegrate" ,  "burden","x", "y",  "offprm_", "onprm_p", "pfdes", "SPL_THEME1", "SPL_THEME2", "SPL_THEME3",  "SPL_THEME4",  "pop2mi",  "Health",  "severe_housing_burden")
+
+dataset <- sd[myvars]
+
+colnames(dataset) <-  c("GEOID", "alegrate",  "burden","x", "y",  "offprem_p", "onprem_p","pfdes", "SES", "HHComp", "RaceEthn", "HouseTrans", "pop2mi", "Health",  "rentburden")
+
+
+```
+
+```{r, echo=FALSE, message=F, warning=F}
+
+dataset$mrated <- NA
+dataset$mrated[dataset$alegrate<= 27.98] <- "Q1"
+dataset$mrated[dataset$alegrate> 27.98 & dataset$alegrate<= 75.62] <- "Q2"
+dataset$mrated[dataset$alegrate> 75.62] <- "Q3"
+
+scatterplotMatrix(~SES+HHComp+RaceEthn+HouseTrans+Health|mrated,
+                  data=dataset, main="Neighborhood Vulnerability by Maltreatment Quartiles")
+attr(m,"data") <- dataset
+```
+
+```{r}
+###################################################################################
+m@data$lnmal <- log(m@data$alegrate+1)
+m$offprem_p <- as.numeric(as.factor(m$offprem_p))
+#each window takes about 60 points
+
+
+m@data$burden[is.na(m@data$burden)] <- 0
+m@data$offprem_p[is.na(m@data$offprem_p)] <- 0
+m@data$onprem_p[is.na(m@data$onprem_p)] <- 0
+m@data$pop2mi[is.na(m@data$pop2mi)] <- 0
+m@data$pfdes[is.na(m@data$pfdes)] <- 0
+m@data$rentburden[is.na(m@data$rentburden)] <- 0
+m@data$Health[is.na(m@data$Health)] <- 0
+
+fit.1<-lm(lnmal ~ SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden) + scale(Health), data=m)
+summary(fit.1)
+
+#spplot(m, "reser")
+sd.bw = gwr.sel(lnmal ~ SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden) + scale(Health), data=m, adapt = TRUE, method = "cv", verbose = FALSE)
+sd.bw
+print(dim(m)[1] * sd.bw)
+
+
+sd.gwr<-gwr(lnmal ~  SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) + scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden)+ scale(Health), data= m, adapt = sd.bw, gweight = gwr.Gauss, hatmatrix = TRUE)
+print(sd.gwr)
+BFC02.gwr.test(sd.gwr)
+LMZ.F1GWR.test(sd.gwr)
+
+LMZ.F2GWR.test(sd.gwr)
+gwr.dat<-sd.gwr$SDF
+
+```
+
+```{r}
+map.na = list("SpatialPolygonsRescale", layout.north.arrow(), offset = c(0.09908776,   -0.1119003), scale = 4000, col = 1)
+map.scale.1 = list("SpatialPolygonsRescale", layout.scale.bar(), offset = c(6450637,  2300000), scale = 5000, col = 1,  fill = c("transparent", "blue"))
+map.scale.2 = list("sp.text", c(6450637,  2304000), "0", cex = 0.9, col = 1)
+map.scale.3 = list("sp.text", c(6550637,  2304000), "5km", cex = 0.9, col = 1)
+map.layout <- list(map.na, map.scale.1, map.scale.2, map.scale.3)
+mypalette.1 <- brewer.pal(8, "Reds")
+mypalette.2 <- brewer.pal(5, "Blues")
+mypalette.3 <- brewer.pal(6, "Greens")
+```
+
+
+
+```{r}
+cols<-brewer.pal(n=6, name="RdBu")
+names(gwr.dat)
+spplot(gwr.dat, "RaceEthn", at=quantile(sd.gwr$SDF$RaceEthn), col.regions=cols, main="% Race Ethnicity", col="black")
+spplot(gwr.dat, "HouseTrans", at=quantile(sd.gwr$SDF$HouseTrans), col.regions=cols, main="% Housing Trans", col="black")
+spplot(gwr.dat, "HHComp", at=quantile(sd.gwr$SDF$HHComp), col.regions=cols, main="% HH comp", col="black")
+spplot(gwr.dat, "SES", at=quantile(sd.gwr$SDF$SES), col.regions=cols, main="% Social Vuln effect", col="black")
+spplot(gwr.dat, "scale.onprem_p.", at=quantile(sd.gwr$SDF$scale.onprem_p.), col.regions=cols, main="% Alcohol Outlets", col="black")
+spplot(gwr.dat, "scale.pfdes.", at=quantile(sd.gwr$SDF$scale.pfdes.), col.regions=cols, main="% Food Desert", col="black")
+spplot(gwr.dat, "burden", at=quantile(sd.gwr$SDF$burden), col.regions=cols, main="Ratio Elderly to Children", col="black")
+spplot(gwr.dat, "scale.Health.", at=quantile(sd.gwr$SDF$scale.Health.), col.regions=cols, main="% Rent Burden", col="black")
+
+```
+
+```{r}
+bw.gwr.1 <- bw.gwr(lnmal ~  SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden) + scale(Health),
+data = m, approach = "AICc", kernel = "bisquare", adaptive = TRUE)
+
+gwr.result<-gwr.basic(lnmal ~ SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden) + scale(Health),  data = m, kernel = "bisquare", adaptive = TRUE, bw=bw.gwr.1, F123.test = TRUE)
+print(gwr.result)
+
+```
+
+```{r}
+gwr.r_result<-gwr.robust(lnmal ~ SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden) + scale(Health), data = m, kernel = "bisquare", adaptive = TRUE, bw=bw.gwr.1, F123.test = TRUE)
+print(gwr.r_result)
+
+gwr.sim.result<-montecarlo.gwr(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden) + scale(Health), data = m, nsim=1000, kernel = "bisquare", adaptive = TRUE, bw=bw.gwr.1)
+```
+
+```{r}
+# Model Selection
+maltreatment <- "lnmal"
+all_vars <- c("SES"," HHComp", "RaceEthn", "HouseTrans",  "onprem_p", "offprem_p", "pfdes", "pop2mi")
+model.sel <- model.selection.gwr(maltreatment, all_vars, data = m, kernel = "bisquare", adaptive = TRUE, bw = bw.gwr.1)
+sorted.models <- model.sort.gwr(model.sel, numVars = length(all_vars), ruler.vector = model.sel[[2]][,2])
+model.list <- sorted.models[[1]]
+model.view.gwr(maltreatment, all_vars, model.list = model.list)
+plot(sorted.models[[2]][,2], col = "black", pch = 20, lty = 5, main = "GWR Model Selection",  ylab = "AICc", xlab = "Model number", type = "b")
+abline(h=60, col="blue")
+
+m@bbox
+
+map.na = list("SpatialPolygonsRescale", layout.north.arrow(), offset = c(0.09908776,   -0.1119003), scale = 4000, col = 1)
+map.scale.1 = list("SpatialPolygonsRescale", layout.scale.bar(), offset = c(6450637,  2300000), scale = 5000, col = 1,  fill = c("transparent", "blue"))
+map.scale.2 = list("sp.text", c(6450637,  2304000), "0", cex = 0.9, col = 1)
+map.scale.3 = list("sp.text", c(6550637,  2304000), "5km", cex = 0.9, col = 1)
+map.layout <- list(map.na, map.scale.1, map.scale.2, map.scale.3)
+mypalette.1 <- brewer.pal(8, "Reds")
+mypalette.2 <- brewer.pal(5, "Blues")
+mypalette.3 <- brewer.pal(6, "Greens")
+
+
+pvalue<-gwr.t.adjust(gwr.result)
+pvalueTable<-pvalue$SDF@data; names(pvalueTable)
+lm.palette <- colorRampPalette(c("white","orange", "red"), space = "rgb")
+mypalette.6 <- brewer.pal(6, "Spectral")
+#names(gwr.result$SDF)[10]<-"Health"
+
+#Get limits for maps
+summary(gwr.result$SDF$HHComp)
+ 
+p1<- spplot(gwr.result$SDF, "SES", key.space = "right", col.regions = mypalette.6, at = c(-0.04,  0.0712, 0.1500,   0.2179,  0.3934, 0.66), main = "Coefficient estimates for Social Vulnerability", sp.layout = map.layout)
+
+p2<-spplot(gwr.result$SDF, "RaceEthn", key.space = "right", col.regions = mypalette.6, at = c(-.20, -0.0128, 0.1917, 0.2509, 0.5310, .9), main = "Coefficient estimates for Racial/Ethnic Vulnerability", sp.layout = map.layout)
+
+p3<-spplot(gwr.result$SDF, "HHComp", key.space = "right", col.regions = mypalette.6, at = c(-0.27, 0.0366,  0.2513,  0.1737,   0.3279,  0.5008 ), main = "Coefficient estimates for HH Comp Vulnerability", sp.layout = map.layout)
+
+p4<-spplot(gwr.result$SDF, "HouseTrans", key.space = "right", col.regions = mypalette.6, at = c(-.10, -0.0209, 0.0481,  0.0711, 0.1283, .41), main = "Coefficient estimates for Housing/Trans Vulnerability", sp.layout = map.layout)
+
+
+grid.arrange(p1, p2,p3,p4,nrow = 2,ncol=2)
+
+
+```
+```{r}
+
+# Local collinearity diagnostics for basic GWR specified above
+gwr.coll.data <- gwr.collin.diagno(lnmal ~ SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p)+ scale(offprem_p) + scale(pfdes)  + pop2mi, data = m, bw = bw.gwr.1, kernel = "bisquare", adaptive = TRUE)
+names(gwr.coll.data)
+
+# Example maps
+
+# GW correlations between predictor variables
+mypalette.coll.1 <-brewer.pal(8,"PuBuGn")
+X11(width=10,height=12)
+spplot(gwr.coll.data$SDF,"Corr_SES.HouseTrans",key.space = "right",
+       col.regions=mypalette.coll.1,at=c(0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1),
+       par.settings=list(fontsize=list(text=15)),
+       main=list(label="GW correlations: SES and Housing Vuln", cex=1.25),
+       sp.layout=map.layout)
+
+
+```
+
+```{r}
+drv="ESRI Shapefile"
+writeOGR(gwr.result$SDF, dsn="shapefiles", layer="chmalt_GWR_final4", driver=drv, check_exists = TRUE, overwrite_layer = TRUE)
+```
+
+
+```{r}
+###################################Clustering on GWR coefficients
+dat.dist<-dist(gwr.dat@data[, 2:13])
+clust.dat<-hclust(dat.dist, method="ward.D")
+
+set.seed(123)
+scaled_data = as.matrix(scale(gwr.dat@data[, 3:13]))
+# Compute and plot wss for k = 2 to k = 15.
+k.max <- 15
+data <- scaled_data
+wss <- sapply(1:k.max,
+              function(k){kmeans(data, k, nstart=50,iter.max = 15 )$tot.withinss})
+
+plot(1:k.max, wss,
+     type="b", pch = 19, frame = FALSE,
+     xlab="Number of clusters K",
+     ylab="Total within-clusters sum of squares")
+
+#And we'll plot the dendrogram, or tree plot
+plot(clust.dat)
+
+```
+
+```{r}
+#I only want a few groups, so I'll cut the tree so I get 5 clusters
+gwr.dat$clus<-cutree(clust.dat, k=6)
+
+
+#i'll use table() to get the frequencies of each cluster
+table(gwr.dat$clus)
+#to get it to plot right, we have to convert the cluster number
+#to a factor variable
+gwr.dat$b.cf<-as.factor(gwr.dat$clus)
+spplot(gwr.dat,"b.cf", col.regions=brewer.pal(6, "Accent"), par.settings =
+         list(axis.line = list(col =  'transparent')), main="GWR Spatial Regimes Based on Hierarchical Clustering of Local Coefficients", col="black")
+b.means<-aggregate(gwr.dat@data[, 2:11], by=list(gwr.dat$clus), mean)
+b.means
+
+
+m$cluster<-gwr.dat$clus
+
+```
+
+```{r}
+####################################
+mydat <-gwr.dat@data[, c(2:13, 27, 43)]
+names(mydat)[6]<-"OPA"
+names(mydat)[7]<-"OFPA"
+names(mydat)[8]<-"Food_Desert"
+names(mydat)[9]<-"Burden"
+names(mydat)[10]<-"PopSQMI"
+names(mydat)[11]<-"Rent Burden"
+names(mydat)[12]<-"Health Burden"
+
+
+mydat$pop2mi1 <- as.numeric(as.character(mydat$PopSQMI))
+mydat$pop2mi1 <- format(round(mydat$pop2mi1, 2), nsmall = 6)
+par(mfrow = c(2, 5), las = 2)
+
+# Plot each of the six measurements in a different plot
+boxplot(formula = SES ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Social Vuln.")
+boxplot(formula = HHComp ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "HH Comp Vuln.")
+boxplot(formula = RaceEthn ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Race/Ethn Vuln.")
+boxplot(formula = HouseTrans ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Housing/Trans Vuln.")
+boxplot(formula = `Health Burden` ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Health Vuln.")
+boxplot(formula = `Rent Burden` ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Rent Burden")
+boxplot(formula = OPA ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Off-Premise Alc.")
+boxplot(formula = OFPA ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "On-Premise Alc.")
+boxplot(formula = Food_Desert ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "Food Desert")
+boxplot(formula = exp(pred) ~ as.numeric(as.integer(clus)), data = mydat,  ylab = "CMA", ylim = c(0, 175))
+
+aov.res <- kruskal.test(SES ~ clus, data=mydat)
+aov.res
+
+```
+
+```{r}
+###########################################
+
+lm.r.c1 =  lm(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden),
+              data=m, subset=m$cluster==1)
+
+lm.r.c2 =  lm(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden),
+              data=m, subset=m$cluster==2)
+
+lm.r.c3 =  lm(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden),
+              data=m, subset=m$cluster==3)
+
+lm.r.c4 =  lm(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden),
+              data=m, subset=m$cluster==4)
+
+lm.r.c5 =  lm(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden),
+              data=m, subset=m$cluster==5)
+
+lm.r.c6 =  lm(lnmal~SES+ HHComp + RaceEthn + HouseTrans+  scale(onprem_p) +   scale(offprem_p) + scale(pfdes)  + burden + scale(pop2mi)+ scale(rentburden),
+              data=m, subset=m$cluster==6)
+
+
+
+summary(lm.r.c1)
+summary(lm.r.c2)
+summary(lm.r.c3)
+summary(lm.r.c4)
+summary(lm.r.c5)
+summary(lm.r.c6)
+
+```
+
+```{r}
+m$d.cf<-as.factor(m@data$cluster)
+spplot(m,"d.cf", col.regions=brewer.pal(6, "Accent"), main="Demographic Spatial Regimes", col="black")
+```
+

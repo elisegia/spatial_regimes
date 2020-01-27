@@ -1,0 +1,1246 @@
+geoid,year,in100,msaid15,msaname15,countyfips,statefips,stateusps,pop,c5_ED_met,c5_HE_met,c5_SE_met,c5_COI_met,r_ED_met,r_HE_met,r_SE_met,r_COI_met
+6073000100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,541,High,Low,Very High,High,65,30,87,78
+6073000201,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,219,High,Moderate,Very High,Very High,68,47,100,90
+6073000202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,467,High,Moderate,High,High,64,46,79,72
+6073000300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,191,High,Very Low,High,Moderate,64,16,65,60
+6073000400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,116,High,Moderate,Moderate,Moderate,63,44,52,56
+6073000500,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,184,High,Low,High,High,61,39,66,62
+6073000600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,158,High,Low,High,High,65,29,75,68
+6073000700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,203,High,Very Low,Very High,High,65,14,85,74
+6073000800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,298,High,Very Low,Low,Moderate,62,3,38,41
+6073000900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,441,Moderate,Very Low,Low,Low,52,5,23,24
+6073001000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,615,Moderate,Very Low,Low,Low,49,18,27,32
+6073001100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,597,Moderate,Very Low,Low,Low,54,4,38,39
+6073001200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,781,Moderate,Very Low,Very Low,Very Low,48,16,12,18
+6073001300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1157,Moderate,Very Low,Low,Low,51,10,22,24
+6073001400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,325,Moderate,Very Low,Moderate,Moderate,56,17,52,49
+6073001500,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,748,Moderate,Very Low,Moderate,Moderate,49,2,50,43
+6073001600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1411,Low,Very Low,Very Low,Very Low,30,10,10,11
+6073001700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,786,Low,Very Low,Moderate,Low,37,8,43,38
+6073001800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1153,Low,Very Low,Very Low,Very Low,40,2,19,17
+6073001900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,349,Moderate,High,High,High,54,68,76,68
+6073002001,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,470,Moderate,High,High,High,51,80,71,63
+6073002002,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,353,Moderate,High,Very High,High,47,75,94,80
+6073002100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,569,Low,Very Low,Low,Low,38,1,25,21
+6073002201,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1302,Very Low,Very Low,Very Low,Very Low,18,1,4,3
+6073002202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1271,Very Low,Very Low,Very Low,Very Low,9,1,2,1
+6073002301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,753,Very Low,Very Low,Very Low,Very Low,19,7,6,7
+6073002302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2268,Very Low,Very Low,Very Low,Very Low,12,1,5,3
+6073002401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1176,Low,Very Low,Very Low,Very Low,31,1,7,8
+6073002402,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1712,Very Low,Very Low,Very Low,Very Low,19,4,10,9
+6073002501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1574,Low,Very Low,Low,Low,21,4,29,23
+6073002502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1422,Low,Very Low,Moderate,Low,34,1,55,40
+6073002601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2287,Very Low,Very Low,Very Low,Very Low,18,2,9,7
+6073002602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1375,Very Low,Very Low,Very Low,Very Low,14,1,10,7
+6073002702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1069,Low,Very Low,Low,Very Low,25,7,23,18
+6073002703,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1838,Low,Very Low,Low,Low,21,2,39,27
+6073002705,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,933,Low,Very Low,Moderate,Low,21,12,43,36
+6073002707,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2146,Very Low,Very Low,Very Low,Very Low,14,1,4,3
+6073002708,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2061,Very Low,Very Low,Very Low,Very Low,9,1,1,1
+6073002709,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,891,Very Low,Very Low,Very Low,Very Low,20,1,7,5
+6073002710,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1220,Very Low,Very Low,Very Low,Very Low,18,7,13,12
+6073002711,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1186,Low,Low,Moderate,Low,23,31,48,40
+6073002712,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1280,Low,Low,Low,Low,31,29,24,23
+6073002801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,172,Moderate,Very Low,Moderate,Moderate,59,1,52,43
+6073002803,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1013,Low,Very Low,High,Moderate,27,2,61,44
+6073002804,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,518,Moderate,Very Low,Moderate,Moderate,44,12,55,46
+6073002902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1419,Low,Low,Low,Low,40,30,30,31
+6073002903,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1093,Low,Low,Moderate,Low,28,26,42,38
+6073002904,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,658,Moderate,Very Low,Low,Low,60,7,26,32
+6073002905,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,753,Moderate,Very Low,Very Low,Very Low,47,1,20,17
+6073003001,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1476,Low,Very Low,Very Low,Very Low,23,4,12,11
+6073003003,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1348,Low,Very Low,Low,Low,25,5,35,27
+6073003004,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1927,Low,Very Low,Very Low,Very Low,21,1,12,9
+6073003101,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,892,Very Low,Very Low,Low,Low,18,2,31,22
+6073003103,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1980,Very Low,Very Low,Low,Low,18,14,32,26
+6073003105,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1070,Very Low,Very Low,Very Low,Very Low,15,1,18,10
+6073003107,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1648,Low,Low,High,Moderate,21,32,67,52
+6073003108,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,927,Low,Very Low,Low,Low,36,6,40,36
+6073003109,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,781,Moderate,Moderate,Moderate,Moderate,49,49,58,55
+6073003111,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1842,Very Low,Very Low,Very Low,Very Low,20,2,8,7
+6073003112,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1289,Very Low,Very Low,Low,Low,20,3,27,21
+6073003113,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1157,Low,Very Low,Moderate,Low,31,3,52,40
+6073003114,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,949,Low,Very Low,Moderate,Moderate,38,13,49,42
+6073003115,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1693,Low,Very Low,Low,Low,31,16,26,25
+6073003201,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1472,Moderate,Low,Very Low,Very Low,48,37,11,18
+6073003202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1535,Moderate,Very Low,Moderate,Low,47,12,42,40
+6073003204,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,808,High,Low,High,High,67,36,75,70
+6073003207,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1299,High,Moderate,High,High,73,44,66,68
+6073003208,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1662,Moderate,Very Low,Low,Low,52,3,38,38
+6073003209,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1446,Moderate,Low,Low,Low,50,23,26,29
+6073003211,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,731,Moderate,Very Low,Moderate,Moderate,52,19,48,46
+6073003212,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,902,Moderate,Low,High,Moderate,44,29,67,58
+6073003213,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,792,Moderate,Very Low,High,High,46,19,79,63
+6073003214,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1515,Low,Moderate,Moderate,Moderate,36,54,53,48
+6073003301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,808,Very Low,Very Low,Very Low,Very Low,17,2,6,5
+6073003303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1566,Very Low,Very Low,Low,Very Low,6,1,24,12
+6073003304,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1372,Low,Very Low,Very Low,Very Low,21,1,20,13
+6073003305,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2141,Very Low,Very Low,Very Low,Very Low,20,2,2,2
+6073003401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1653,Low,Very Low,Moderate,Low,27,11,47,39
+6073003403,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1396,Very Low,Very Low,Very Low,Very Low,18,1,20,11
+6073003404,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1243,Low,Very Low,Very Low,Very Low,27,3,6,7
+6073003501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1399,Very Low,Very Low,Very Low,Very Low,16,1,5,3
+6073003502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1619,Very Low,Very Low,Very Low,Very Low,8,1,4,2
+6073003601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1277,Very Low,Very Low,Very Low,Very Low,14,1,2,1
+6073003602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1055,Very Low,Very Low,Very Low,Very Low,8,2,10,7
+6073003603,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1211,Very Low,Very Low,Very Low,Very Low,11,1,6,5
+6073003901,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1911,Very Low,Very Low,Very Low,Very Low,8,1,1,1
+6073003902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1431,Very Low,Very Low,Very Low,Very Low,4,1,20,9
+6073004000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1558,Very Low,Very Low,Very Low,Very Low,4,1,3,1
+6073004100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1525,Very Low,Very Low,Low,Low,20,4,32,24
+6073004200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,837,Moderate,Very Low,Very High,High,48,14,90,71
+6073004300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,475,Moderate,Very Low,High,Moderate,55,8,68,58
+6073004400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,726,Moderate,Low,Moderate,Moderate,42,30,53,47
+6073004501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,446,Low,Very Low,Moderate,Low,28,1,52,33
+6073004600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,159,Low,Very Low,Moderate,Moderate,33,11,52,41
+6073004700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,545,Very Low,Very Low,Very Low,Very Low,9,1,1,1
+6073004800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1334,Very Low,Very Low,Very Low,Very Low,5,1,7,3
+6073004900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1640,Very Low,Very Low,Very Low,Very Low,2,2,3,1
+6073005000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,635,Very Low,Very Low,Very Low,Very Low,3,1,6,1
+6073005100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,712,Very Low,Very Low,Very Low,Very Low,9,2,2,1
+6073005200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,412,Low,Very Low,Very Low,Very Low,21,1,13,10
+6073005300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,138,Very Low,Very Low,Low,Low,14,15,26,21
+6073005400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,313,Low,Low,Very High,Moderate,28,21,81,60
+6073005600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,97,Moderate,Moderate,High,Moderate,42,42,75,60
+6073005700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,13,Low,Very Low,Very Low,Very Low,32,1,19,10
+6073005800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,230,Moderate,Very Low,Low,Low,50,1,26,22
+6073005900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,157,Moderate,Very Low,Moderate,Low,52,1,45,36
+6073006000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,226,High,Very Low,High,High,63,4,75,63
+6073006100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,291,Moderate,Very Low,High,Moderate,59,12,66,59
+6073006500,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,158,Moderate,Very Low,Very Low,Very Low,57,13,3,8
+6073006600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,940,Moderate,Very High,Very Low,Low,59,93,14,31
+6073006801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,311,High,Moderate,Moderate,Moderate,69,45,55,59
+6073006802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1257,High,Low,Low,Moderate,64,21,39,45
+6073006900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1157,High,High,High,High,74,61,67,71
+6073007002,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,562,High,Very High,Very High,Very High,76,94,87,87
+6073007100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,650,High,High,Very High,Very High,69,75,85,81
+6073007200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,811,High,Very High,High,High,78,89,74,79
+6073007301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,284,High,Very Low,Moderate,Moderate,80,20,52,60
+6073007302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,329,High,Low,Very High,Very High,76,29,89,82
+6073007400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,879,High,Low,Moderate,Moderate,69,37,50,58
+6073007501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,443,High,Very Low,Low,Low,72,6,30,40
+6073007502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,261,High,Very Low,Moderate,Moderate,69,17,47,54
+6073007600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,274,High,Very Low,High,High,69,12,76,70
+6073007701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,180,High,Low,High,High,65,29,64,61
+6073007702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,130,High,Very Low,High,Moderate,63,6,67,59
+6073007800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,881,Moderate,Very Low,Moderate,Moderate,55,4,57,50
+6073007903,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,279,High,Low,High,High,65,24,68,63
+6073007905,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,38,High,Very Low,Very High,Very High,77,7,90,81
+6073007907,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,72,High,Very Low,Low,Low,66,5,27,37
+6073007908,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,84,Moderate,Low,Very High,High,53,21,90,74
+6073007910,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,150,High,Low,Very High,Very High,69,37,89,81
+6073008002,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,381,High,Moderate,Very High,Very High,69,56,87,81
+6073008003,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,273,High,Low,Very High,Very High,69,29,93,83
+6073008006,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,372,Very High,Moderate,High,High,83,52,74,78
+6073008101,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,521,Very High,Low,Very High,Very High,89,24,85,87
+6073008102,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,676,Very High,Moderate,Very High,Very High,86,51,97,93
+6073008200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,330,Very High,Moderate,High,High,86,41,64,74
+6073008301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,385,High,Moderate,Very High,High,66,47,81,75
+6073008303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,668,Very High,High,Very High,Very High,90,77,89,91
+6073008305,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,518,Very High,Moderate,Low,Moderate,84,45,26,47
+6073008306,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,661,High,Moderate,Very High,Very High,76,57,96,89
+6073008307,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,640,Very High,Very High,Very High,Very High,84,94,97,94
+6073008310,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1087,Very High,Very High,Very High,Very High,81,82,90,89
+6073008311,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,716,Very High,Moderate,Very High,Very High,89,57,87,89
+6073008312,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,610,Very High,Moderate,Very High,Very High,86,60,100,96
+6073008313,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,438,Very High,Very High,Very High,Very High,85,86,99,94
+6073008324,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1338,Very High,Very High,Very High,Very High,89,93,98,97
+6073008327,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1473,Very High,Very High,Very High,Very High,89,91,90,91
+6073008328,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1685,Very High,High,Very High,Very High,90,79,92,92
+6073008329,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1245,Very High,Moderate,High,High,87,46,61,74
+6073008330,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1469,Very High,High,Very High,Very High,89,67,87,90
+6073008331,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,745,Very High,Very High,Very High,Very High,93,97,88,93
+6073008333,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4435,Very High,Very High,Very High,Very High,92,81,93,93
+6073008335,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3466,Very High,Very High,Very High,Very High,86,95,99,96
+6073008336,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,614,Very High,High,Very High,Very High,85,76,99,95
+6073008337,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1189,Very High,High,Very High,Very High,84,74,90,89
+6073008339,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,115,High,Low,High,High,79,24,71,71
+6073008340,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,992,Very High,Low,Very High,Very High,85,35,85,84
+6073008341,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,490,Very High,Low,High,High,81,31,63,69
+6073008343,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,592,Very High,Very High,High,High,87,92,65,79
+6073008344,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,840,High,High,High,High,80,71,74,77
+6073008345,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,461,High,Moderate,Very High,Very High,74,42,88,82
+6073008346,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1383,High,Very High,Very High,Very High,68,83,99,90
+6073008347,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1330,High,High,Very High,High,65,62,88,80
+6073008348,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,884,High,High,Very High,High,65,66,82,76
+6073008349,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,816,High,Moderate,High,High,63,48,77,70
+6073008350,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1352,High,Moderate,Very High,High,64,46,88,79
+6073008351,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,818,Moderate,Moderate,High,High,59,48,75,67
+6073008352,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,838,High,Very Low,High,Moderate,68,17,61,60
+6073008353,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,996,High,High,Very High,Very High,69,71,92,86
+6073008354,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1217,High,High,Very High,Very High,69,67,91,85
+6073008355,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,828,High,Moderate,High,High,65,49,78,73
+6073008356,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,845,High,High,High,High,66,65,79,75
+6073008357,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1080,Moderate,Low,Moderate,Moderate,56,29,57,55
+6073008358,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1589,Moderate,Low,High,High,57,40,74,65
+6073008359,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,722,Moderate,Very Low,Low,Low,55,3,36,37
+6073008360,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,976,Moderate,Very Low,Moderate,Moderate,53,8,57,50
+6073008361,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,204,Very High,Very High,Low,Moderate,84,92,36,59
+6073008362,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,442,Very High,Moderate,Very High,Very High,86,56,87,87
+6073008363,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,471,Very High,Moderate,High,High,87,47,64,74
+6073008364,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,461,Very High,High,Low,High,88,65,40,63
+6073008365,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,750,Very High,Very High,Very High,Very High,88,93,99,97
+6073008366,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1729,Very High,Very High,Very High,Very High,86,93,99,96
+6073008501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,945,Moderate,High,Very High,Very High,59,61,93,81
+6073008502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1234,High,Moderate,High,High,61,46,66,63
+6073008503,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1163,Moderate,Low,Very High,High,57,29,88,74
+6073008504,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1057,High,Low,High,High,61,37,72,65
+6073008505,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1149,Moderate,Moderate,High,High,59,48,72,65
+6073008506,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,690,Moderate,Moderate,High,High,59,45,73,66
+6073008507,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1566,Moderate,Very Low,Moderate,Moderate,58,18,60,57
+6073008509,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1341,Moderate,Low,High,Moderate,59,29,61,58
+6073008510,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1123,Moderate,Very Low,Moderate,Moderate,47,14,52,45
+6073008511,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,413,High,Very Low,High,Moderate,61,15,66,59
+6073008512,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,866,Moderate,High,High,High,60,65,74,69
+6073008513,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,603,Moderate,High,Very High,High,52,75,83,72
+6073008600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1629,Low,Very Low,Low,Very Low,28,2,23,17
+6073008701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1069,Moderate,High,Very Low,Low,45,80,11,21
+6073008702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,911,Moderate,Very Low,Moderate,Moderate,57,14,50,48
+6073008800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1651,Moderate,Low,Very Low,Low,41,25,19,22
+6073008901,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,708,Moderate,Very Low,Low,Low,41,13,39,38
+6073008902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,185,High,Low,High,High,64,40,71,66
+6073009000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,719,Low,Very Low,Low,Low,33,8,23,21
+6073009101,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,944,Moderate,Low,High,High,57,36,78,67
+6073009102,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,555,Moderate,Very Low,Very Low,Very Low,54,6,12,18
+6073009103,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,578,Moderate,Moderate,High,High,55,42,75,65
+6073009104,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,376,Moderate,Moderate,Very High,Very High,60,54,99,88
+6073009106,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,283,Moderate,Low,High,High,52,27,76,63
+6073009107,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,383,High,Low,Moderate,Moderate,65,35,45,52
+6073009201,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1456,Moderate,Low,Low,Low,52,37,23,28
+6073009202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,600,Moderate,Very High,Very High,Very High,58,83,93,81
+6073009301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,736,Moderate,Very Low,Moderate,Moderate,55,14,55,50
+6073009304,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,622,High,Low,Low,Moderate,61,30,40,46
+6073009305,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,685,High,Low,Moderate,Moderate,63,35,55,57
+6073009306,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1225,Moderate,Moderate,High,Moderate,59,46,63,60
+6073009400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,925,Moderate,Very High,Very Low,Low,42,88,13,24
+6073009502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,802,High,Very High,High,High,77,90,70,75
+6073009504,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1944,High,Very High,Very High,Very High,80,90,94,91
+6073009505,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1331,High,Very High,High,High,77,94,74,79
+6073009506,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,875,High,High,Very High,Very High,76,70,86,84
+6073009507,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,669,High,Moderate,Very High,Very High,76,60,85,81
+6073009509,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,528,High,Moderate,Very High,High,66,44,84,76
+6073009510,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2557,Moderate,Very High,Very Low,Low,60,92,12,28
+6073009511,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2442,Moderate,High,Very Low,Low,53,69,13,25
+6073009602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,596,Moderate,Low,High,High,57,39,77,67
+6073009603,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,601,Moderate,Very Low,Moderate,Low,49,4,43,40
+6073009604,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,529,Moderate,Very Low,Low,Low,48,3,30,28
+6073009703,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,741,High,Very Low,High,High,68,18,65,63
+6073009704,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,925,High,Moderate,High,High,77,44,65,70
+6073009705,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,618,High,Very Low,Very High,High,68,12,90,79
+6073009706,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1134,High,High,Very High,Very High,74,61,86,81
+6073009801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,805,High,High,Very High,Very High,73,63,85,81
+6073009802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1160,High,Low,Moderate,Moderate,62,24,58,57
+6073009804,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,952,High,Low,Very High,High,65,39,90,80
+6073009805,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1023,High,Moderate,Very High,High,76,59,81,80
+6073009901,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,0,Moderate,Very High,Very Low,Very Low,60,100,2,12
+6073010001,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,937,Moderate,Moderate,High,High,51,59,78,67
+6073010003,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1388,Moderate,Very Low,Moderate,Moderate,52,11,47,45
+6073010004,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,969,Low,Low,Low,Low,40,23,30,31
+6073010005,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1913,Low,Very Low,Very Low,Very Low,27,19,5,8
+6073010009,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2196,Low,Very Low,Low,Low,23,10,25,21
+6073010010,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1388,Low,Low,Very Low,Very Low,22,22,12,14
+6073010011,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,926,Moderate,Very Low,Moderate,Moderate,48,1,52,42
+6073010012,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1206,Low,Very Low,Very Low,Very Low,23,19,18,15
+6073010013,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1703,Very Low,Very Low,Very Low,Very Low,20,2,4,3
+6073010014,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4099,Moderate,Moderate,Low,Low,41,60,26,31
+6073010015,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,948,Low,Very Low,Low,Low,22,20,37,32
+6073010103,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1830,Low,Low,Very Low,Very Low,29,27,11,14
+6073010104,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,767,Low,Low,Moderate,Moderate,34,28,59,48
+6073010106,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1312,Very Low,Very Low,Very Low,Very Low,20,13,6,7
+6073010107,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1601,Low,Very Low,Low,Low,28,6,40,33
+6073010109,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1242,Low,High,Low,Low,25,61,26,27
+6073010110,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2197,Low,Very Low,Low,Low,28,8,27,23
+6073010111,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1150,Low,Low,Very Low,Very Low,22,25,11,13
+6073010112,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1822,Low,Very Low,Very Low,Very Low,25,1,6,5
+6073010200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1355,Moderate,Very Low,Low,Low,50,7,37,37
+6073010300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1354,Moderate,Very Low,Moderate,Low,43,3,45,40
+6073010401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,672,Low,Very Low,Very Low,Very Low,38,7,4,7
+6073010402,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1877,Low,Low,Very Low,Very Low,38,22,5,10
+6073010501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,265,Moderate,High,Low,Low,51,65,31,39
+6073010502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1307,Moderate,Very Low,Very Low,Low,43,14,19,21
+6073010601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,655,High,Very High,High,High,70,92,74,75
+6073010800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,557,Very High,Moderate,Low,Moderate,85,58,26,51
+6073010900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,490,Very High,Very High,Moderate,High,85,81,52,68
+6073011000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,504,Very High,High,High,High,83,74,73,79
+6073011100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,747,High,Moderate,Moderate,Moderate,80,46,48,60
+6073011300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,30,High,Very High,Very Low,Moderate,80,97,19,44
+6073011601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1765,Low,Very Low,Very Low,Very Low,22,1,5,3
+6073011602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1373,Low,Very Low,Very Low,Very Low,32,1,11,9
+6073011700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1500,Low,Very Low,Low,Very Low,31,1,21,15
+6073011801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1112,Low,Very Low,Very Low,Very Low,32,2,6,6
+6073011802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2052,Very Low,Very Low,Very Low,Very Low,18,1,9,6
+6073011902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1170,Low,Very Low,Moderate,Low,40,6,47,40
+6073012002,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1068,Moderate,Low,Low,Low,49,23,23,26
+6073012003,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,675,Low,Very Low,Moderate,Low,35,2,46,38
+6073012101,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,569,Low,Very Low,Low,Low,37,12,26,25
+6073012102,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,946,Low,Low,Low,Low,33,28,35,33
+6073012200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1194,Low,Very Low,Low,Very Low,33,1,23,16
+6073012302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,347,Moderate,Very Low,Low,Very Low,44,1,21,16
+6073012303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,398,Moderate,Very Low,Low,Low,53,2,28,28
+6073012304,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,842,Moderate,Very Low,High,Moderate,53,4,75,60
+6073012401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,694,Moderate,Very Low,Very Low,Very Low,42,2,13,15
+6073012402,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1278,Moderate,Very Low,Low,Low,42,5,29,26
+6073012501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,746,Low,Very Low,Very Low,Very Low,27,1,7,5
+6073012502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1242,Low,Low,Very Low,Very Low,36,38,3,6
+6073012600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1446,Moderate,Very Low,Very Low,Very Low,44,1,10,11
+6073012700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1457,Moderate,Very Low,Very Low,Very Low,42,1,5,5
+6073012800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1315,Moderate,Very Low,Moderate,Moderate,50,12,52,47
+6073012900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,688,Moderate,Low,Moderate,Moderate,45,40,59,53
+6073013000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1559,Moderate,Low,Low,Low,43,32,24,26
+6073013102,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1204,Low,Very Low,Very Low,Very Low,30,3,7,9
+6073013103,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,873,Low,Very Low,Very Low,Very Low,36,3,5,7
+6073013104,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1787,Low,Very Low,Very Low,Very Low,35,4,11,13
+6073013203,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1802,Very Low,Very Low,Very Low,Very Low,20,2,9,7
+6073013204,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,939,Low,Very Low,Very Low,Very Low,34,3,11,12
+6073013205,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,525,Low,Very Low,Low,Low,32,13,23,21
+6073013206,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1979,Low,Very Low,Very Low,Very Low,33,11,4,7
+6073013301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1344,Moderate,Low,Moderate,Moderate,49,36,55,50
+6073013302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1090,Low,Very Low,High,Moderate,33,10,61,48
+6073013303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1159,Low,Low,Low,Low,32,37,32,33
+6073013306,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1299,Moderate,Very Low,High,Moderate,44,17,65,55
+6073013307,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1124,Moderate,Very Low,Very Low,Low,43,15,19,21
+6073013308,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1084,Moderate,Moderate,Low,Low,45,45,31,36
+6073013309,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2033,Moderate,High,High,High,53,74,71,64
+6073013310,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,9116,High,Very Low,High,High,73,14,72,68
+6073013311,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3314,High,High,High,High,78,75,78,80
+6073013312,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1041,Moderate,Low,Low,Low,47,27,37,38
+6073013313,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2839,High,Very Low,High,High,68,12,80,73
+6073013314,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4956,High,Moderate,High,High,80,48,76,78
+6073013401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,730,Moderate,Moderate,High,High,53,59,80,69
+6073013409,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1245,Moderate,Low,Moderate,Moderate,59,25,46,49
+6073013410,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2291,High,High,High,High,76,74,79,80
+6073013411,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,834,High,High,Very High,Very High,76,74,92,87
+6073013412,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1265,High,Moderate,High,High,65,58,67,66
+6073013414,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1693,High,Very Low,High,High,68,10,73,66
+6073013415,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,361,High,Low,High,High,77,24,66,68
+6073013416,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,884,High,Moderate,Moderate,Moderate,69,53,47,58
+6073013417,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,580,High,Very High,Moderate,High,73,85,60,68
+6073013418,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1676,High,Low,Moderate,Moderate,72,25,55,59
+6073013419,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2348,High,Moderate,High,High,79,59,73,76
+6073013420,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,786,High,Very Low,High,High,67,3,73,65
+6073013421,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1185,High,Moderate,Moderate,Moderate,66,58,52,59
+6073013503,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1172,Moderate,Very Low,Low,Low,42,18,24,24
+6073013504,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1090,Moderate,Moderate,High,Moderate,45,56,71,60
+6073013505,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1036,Moderate,Moderate,Moderate,Moderate,59,46,45,50
+6073013506,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,936,Moderate,Very Low,Low,Low,53,11,25,27
+6073013601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1097,Moderate,Moderate,Moderate,Moderate,51,51,55,53
+6073013604,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1448,High,Low,Moderate,Moderate,65,36,49,55
+6073013605,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1151,Moderate,Very High,Very High,Very High,60,84,93,83
+6073013606,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1530,High,Moderate,Moderate,Moderate,63,60,45,53
+6073013701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,497,Moderate,High,Very High,High,59,64,87,76
+6073013702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1405,Moderate,Very Low,Moderate,Moderate,42,2,52,41
+6073013801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1126,Moderate,Low,High,Moderate,47,28,73,59
+6073013802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,777,Low,Very Low,Very Low,Very Low,21,2,11,9
+6073013903,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1202,Low,Moderate,Moderate,Moderate,35,43,53,46
+6073013905,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,963,Low,High,Moderate,Moderate,33,61,49,45
+6073013906,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1186,Low,Very Low,Low,Low,21,20,37,31
+6073013907,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1502,Low,Very Low,Low,Low,32,4,26,21
+6073013908,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1079,Low,Very Low,Low,Low,27,10,26,23
+6073013909,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1544,Low,Very Low,Low,Low,27,18,35,31
+6073014001,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1401,Low,Low,Low,Low,28,40,31,31
+6073014002,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1278,Low,Very Low,Moderate,Low,31,17,48,40
+6073014101,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,990,Low,Low,Moderate,Moderate,31,21,47,41
+6073014102,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1165,Low,Moderate,Low,Low,25,44,26,26
+6073014200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1472,Low,Very Low,Low,Low,31,19,35,32
+6073014300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,949,Low,Very Low,Low,Low,27,8,35,28
+6073014400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,897,Low,Very Low,Very Low,Very Low,27,2,13,12
+6073014500,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,903,Low,Very Low,Moderate,Low,35,2,52,40
+6073014601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1092,Moderate,Very Low,Moderate,Moderate,56,2,46,43
+6073014602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1039,Moderate,Moderate,Moderate,Moderate,50,48,57,53
+6073014700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1816,Moderate,Low,High,Moderate,58,21,61,57
+6073014803,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,438,High,Very Low,Moderate,Moderate,63,8,46,48
+6073014804,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,696,High,Very Low,High,Moderate,66,9,64,59
+6073014805,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,598,High,Very Low,Moderate,Moderate,64,8,45,47
+6073014806,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,273,Moderate,Very Low,Very Low,Very Low,55,1,4,4
+6073014901,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,705,Moderate,Low,Moderate,Moderate,60,35,42,47
+6073014902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,563,Moderate,Moderate,High,Moderate,55,47,64,59
+6073015000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1267,High,Low,Moderate,Moderate,61,24,55,55
+6073015100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1309,High,Moderate,High,Moderate,61,52,61,60
+6073015200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,746,High,High,Very High,High,62,70,83,75
+6073015301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1028,Low,Very Low,Low,Low,33,11,30,26
+6073015302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,854,Moderate,High,Moderate,Moderate,52,61,59,57
+6073015403,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,447,Moderate,High,Very High,High,52,79,83,73
+6073015404,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1828,Very Low,Very Low,Low,Very Low,19,18,23,19
+6073015405,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1331,Low,Moderate,High,Moderate,33,60,64,55
+6073015406,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,592,Moderate,High,High,High,54,70,79,70
+6073015501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,921,Low,Low,Moderate,Moderate,31,31,57,47
+6073015502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,493,Low,Moderate,High,Moderate,37,42,73,59
+6073015601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1472,Very Low,Very Low,Moderate,Low,12,14,46,36
+6073015602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,474,Low,High,Very High,High,34,61,99,80
+6073015701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2266,Very Low,Very Low,Very Low,Very Low,10,2,6,5
+6073015703,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1518,Very Low,Very Low,Very Low,Very Low,18,1,5,3
+6073015704,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1445,Very Low,Very Low,Low,Low,13,15,29,23
+6073015801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1677,Low,Very Low,Very Low,Very Low,25,1,3,2
+6073015802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1054,Low,Very Low,Very Low,Very Low,24,1,3,2
+6073015901,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1415,Low,Very Low,Very Low,Very Low,25,1,1,1
+6073015902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1467,Low,Very Low,Very Low,Very Low,35,3,12,13
+6073016000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,460,Moderate,Very Low,High,Moderate,48,2,66,53
+6073016100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1150,Moderate,Moderate,High,High,52,44,74,63
+6073016201,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1449,Moderate,High,High,High,58,61,79,70
+6073016202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,594,Low,Very Low,Very Low,Very Low,32,7,8,10
+6073016301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1505,Very Low,Very Low,Very Low,Very Low,8,3,7,6
+6073016302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1252,Very Low,Very Low,Very Low,Very Low,9,1,13,7
+6073016401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1105,Low,Moderate,High,Moderate,33,42,72,58
+6073016402,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1888,Low,Low,Very Low,Very Low,23,27,11,13
+6073016502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1645,Low,Very Low,Very Low,Very Low,25,7,19,15
+6073016503,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,686,Low,Very Low,Moderate,Low,24,10,49,39
+6073016504,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1620,Very Low,Very Low,Low,Very Low,6,1,28,14
+6073016605,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1315,Moderate,Moderate,High,Moderate,59,46,62,59
+6073016606,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,874,High,Low,High,High,61,40,73,66
+6073016607,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1677,Moderate,Moderate,Moderate,Moderate,55,54,42,47
+6073016608,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,572,High,Very High,Very High,Very High,64,97,89,82
+6073016609,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1437,High,Very High,High,High,63,82,64,64
+6073016610,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1097,Moderate,High,High,High,59,61,68,64
+6073016612,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1410,High,High,Very High,High,66,61,85,79
+6073016613,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,342,High,Low,High,Moderate,63,36,61,59
+6073016614,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1095,High,High,High,High,64,61,63,63
+6073016615,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,754,Moderate,High,Very Low,Very Low,57,72,6,15
+6073016616,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1131,Moderate,Moderate,Low,Low,53,42,32,39
+6073016617,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,601,Moderate,Very Low,Low,Low,52,7,38,39
+6073016701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2151,Moderate,Very Low,Moderate,Moderate,50,16,52,47
+6073016702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1599,Moderate,Very Low,High,Moderate,53,2,69,56
+6073016802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1476,Low,Low,Moderate,Moderate,39,35,47,43
+6073016804,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2497,Moderate,Very Low,Low,Low,47,12,25,25
+6073016806,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1062,Low,Very Low,Low,Low,32,8,32,27
+6073016807,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1585,Moderate,Low,Moderate,Moderate,44,40,50,47
+6073016809,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1235,Low,Low,High,Moderate,39,21,72,58
+6073016810,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,676,Moderate,Moderate,High,Moderate,48,55,72,60
+6073016811,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,814,Moderate,Low,High,Moderate,51,24,67,58
+6073016901,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2027,Moderate,Very Low,Moderate,Moderate,55,11,46,44
+6073016902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,541,Moderate,Low,Moderate,Moderate,41,28,44,41
+6073017006,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,619,Very High,High,Very High,Very High,86,74,98,94
+6073017009,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1075,High,Low,High,High,69,38,78,74
+6073017010,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,797,High,Very High,Very High,Very High,74,88,100,93
+6073017014,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,0,Very High,Very Low,Very Low,Low,83,17,13,37
+6073017015,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1773,Very High,High,Very High,Very High,85,65,87,87
+6073017018,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,741,High,Very Low,High,High,73,14,72,68
+6073017019,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,835,Very High,Moderate,Very High,Very High,84,48,92,88
+6073017020,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,652,Very High,Very High,High,Very High,85,85,76,81
+6073017021,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,625,Very High,Very High,Very High,Very High,81,99,94,92
+6073017022,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1280,High,Very High,Very High,Very High,70,85,99,91
+6073017029,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2101,Very High,High,Very High,Very High,90,70,93,93
+6073017030,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,5036,Very High,Very High,Very High,Very High,87,82,93,92
+6073017031,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1170,High,Moderate,High,High,80,46,65,71
+6073017032,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4230,Very High,High,Very High,Very High,86,70,98,93
+6073017033,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1322,Very High,Very High,Very High,Very High,81,90,91,90
+6073017034,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1199,Very High,High,High,Very High,81,74,79,81
+6073017035,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,777,High,High,Very Low,Low,77,61,19,39
+6073017036,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,746,Very High,High,High,High,81,80,71,76
+6073017037,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1405,Very High,Moderate,High,Very High,84,56,80,81
+6073017039,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1939,Very High,Very High,Very High,Very High,83,82,91,90
+6073017040,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1088,High,Moderate,Very High,High,73,54,83,80
+6073017041,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1743,High,High,Very High,High,66,64,87,80
+6073017042,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2693,Very High,Very High,Very High,Very High,84,86,99,94
+6073017043,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1429,High,Very High,Very High,Very High,76,90,93,89
+6073017044,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1997,Very High,Very High,Very High,Very High,83,86,96,93
+6073017045,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,863,Very High,Very High,Very High,Very High,84,85,100,96
+6073017046,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1096,Very High,Very High,Very High,Very High,81,95,97,93
+6073017047,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1035,Very High,Very High,Very High,Very High,81,92,100,95
+6073017048,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1581,High,Very Low,High,High,68,18,71,66
+6073017049,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,942,High,High,High,High,69,70,66,68
+6073017050,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,699,High,High,Very High,Very High,74,64,87,84
+6073017051,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,728,Very High,Moderate,High,High,84,54,65,74
+6073017052,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,917,Very High,High,Very High,Very High,84,70,82,84
+6073017053,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,765,Very High,High,Very High,Very High,84,66,99,94
+6073017054,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1580,Very High,Moderate,Very High,Very High,81,56,85,84
+6073017055,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1334,High,Very High,Very High,Very High,80,88,91,89
+6073017056,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1126,Very High,Moderate,High,High,81,59,78,80
+6073017104,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,899,Very High,High,Very High,Very High,83,71,86,87
+6073017106,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1159,Very High,Moderate,Moderate,High,82,53,56,67
+6073017107,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,761,Very High,Moderate,Very High,Very High,86,54,87,87
+6073017108,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1230,High,High,Very High,Very High,76,77,96,90
+6073017109,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2046,Very High,Very High,High,Very High,84,97,75,82
+6073017110,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3464,High,Very High,Moderate,High,74,85,55,65
+6073017200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,580,Very High,High,Very High,Very High,95,67,99,98
+6073017303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,740,Very High,Very High,High,Very High,84,88,76,82
+6073017304,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,913,Very High,Very Low,Moderate,High,86,7,57,65
+6073017305,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,456,Very High,High,Very High,Very High,85,61,83,85
+6073017306,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,467,Very High,Very High,Very High,Very High,87,88,89,90
+6073017401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,984,High,Very High,High,High,80,88,74,79
+6073017403,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,954,High,High,Very High,Very High,73,74,86,81
+6073017404,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1628,High,Moderate,High,High,77,52,72,74
+6073017501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,407,High,Moderate,Very High,Very High,76,60,83,81
+6073017502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,754,High,Low,Moderate,Moderate,69,30,52,58
+6073017601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,812,Very High,Moderate,High,High,83,50,78,80
+6073017603,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,322,High,Low,Very High,Very High,77,37,84,81
+6073017604,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1698,High,Low,High,High,76,39,73,74
+6073017701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,906,High,Very Low,Moderate,Moderate,74,17,57,60
+6073017702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,475,High,Very Low,Moderate,Moderate,73,15,43,53
+6073017801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1068,High,High,Moderate,Moderate,68,63,47,58
+6073017808,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1146,Very High,Very High,Moderate,High,81,82,51,66
+6073017809,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,424,High,Low,Moderate,Moderate,78,37,47,59
+6073017810,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,914,High,Very High,Moderate,High,79,94,57,69
+6073017811,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1432,Very High,High,Very High,Very High,84,74,83,85
+6073017813,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,793,High,High,High,High,80,67,75,79
+6073017900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1168,High,Very Low,Very Low,Very Low,62,5,6,13
+6073018000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,219,High,Very Low,High,High,69,4,66,61
+6073018100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,907,Moderate,Low,Low,Low,48,21,40,40
+6073018200,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2308,Low,Very Low,Very Low,Very Low,31,1,13,11
+6073018300,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,164,Low,Very Low,Very Low,Very Low,26,1,13,10
+6073018400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,679,Low,Very Low,Low,Low,27,1,32,23
+6073018504,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1187,Moderate,Moderate,Moderate,Moderate,51,50,48,48
+6073018507,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2710,Low,Moderate,Low,Low,29,46,35,35
+6073018509,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1671,Low,Very Low,Very Low,Very Low,25,8,12,12
+6073018510,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,743,Low,Very Low,Moderate,Low,25,14,41,36
+6073018511,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1220,Low,Very Low,Low,Low,40,7,28,26
+6073018512,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,232,Low,Very Low,Low,Very Low,30,1,25,18
+6073018513,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2389,Moderate,Moderate,High,High,55,48,69,62
+6073018514,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1735,Moderate,Very High,Moderate,Moderate,56,81,55,57
+6073018515,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,901,Moderate,High,High,High,52,61,74,64
+6073018516,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,944,Moderate,Low,Moderate,Moderate,57,21,42,44
+6073018517,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,972,Moderate,Low,Low,Low,52,21,26,31
+6073018518,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,862,Low,Very Low,Low,Low,31,7,35,30
+6073018519,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1773,Low,Very Low,Low,Low,28,19,23,21
+6073018601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,994,Low,High,Very High,High,32,61,84,67
+6073018603,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1615,Very Low,Very Low,Very Low,Very Low,18,2,10,8
+6073018608,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,935,Low,Very High,Moderate,Moderate,27,88,50,46
+6073018609,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1673,Very Low,Very Low,Low,Low,20,3,31,23
+6073018610,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2418,Very Low,Very Low,Low,Low,16,16,32,25
+6073018611,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1983,Moderate,Moderate,Moderate,Moderate,47,42,57,52
+6073018612,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,861,Moderate,Very High,Moderate,Moderate,44,90,55,55
+6073018613,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1317,Low,Low,Low,Low,35,32,26,26
+6073018614,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1324,Low,Very Low,Low,Low,28,8,26,23
+6073018700,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,11306,Low,High,Very Low,Very Low,32,76,12,19
+6073018801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,779,Low,Very High,High,High,35,94,72,61
+6073018802,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1305,Low,High,Low,Low,40,70,36,39
+6073018803,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,827,High,Low,High,Moderate,61,33,66,60
+6073018903,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1206,Very Low,Very Low,Very Low,Very Low,20,14,19,15
+6073018904,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1915,Very Low,Very Low,Low,Low,18,1,31,21
+6073018905,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1755,Very Low,Moderate,Low,Low,18,44,39,35
+6073018906,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1409,Low,Low,Low,Low,29,25,37,34
+6073019001,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1098,Low,Moderate,Low,Low,21,57,22,22
+6073019002,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,332,Very Low,Very Low,Low,Low,20,2,30,22
+6073019101,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1783,Low,Low,Low,Low,33,22,40,38
+6073019103,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1325,Moderate,High,Low,Moderate,49,70,37,42
+6073019105,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,965,Moderate,High,Very High,High,47,70,85,71
+6073019106,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2419,Low,Very Low,Moderate,Moderate,36,11,59,47
+6073019107,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,542,Low,Low,Low,Low,29,32,25,24
+6073019203,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,459,Low,Very Low,High,Moderate,37,19,73,58
+6073019205,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1257,Low,Very Low,Low,Low,28,2,37,28
+6073019206,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1644,Very Low,Very Low,Low,Very Low,3,8,24,14
+6073019207,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2235,Low,Moderate,Low,Low,21,60,37,36
+6073019208,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,563,Low,High,High,Moderate,39,61,73,60
+6073019301,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1701,Moderate,High,High,High,57,64,79,70
+6073019302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1248,Moderate,Low,High,Moderate,47,31,72,59
+6073019303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1703,Low,Low,Low,Low,37,22,40,38
+6073019403,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1548,Low,Very Low,Moderate,Moderate,21,7,57,41
+6073019404,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1097,Very Low,Very Low,Low,Low,3,3,40,25
+6073019405,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1182,Low,Very Low,Very Low,Very Low,24,11,12,13
+6073019406,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1056,Low,Low,Low,Low,23,33,26,24
+6073019501,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1177,Very Low,Very Low,Very Low,Very Low,5,1,5,3
+6073019502,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1818,Very Low,Very Low,Very Low,Very Low,2,4,18,10
+6073019503,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1534,Very Low,Very Low,Very Low,Very Low,8,11,9,8
+6073019601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1645,Very Low,High,Low,Low,14,61,36,33
+6073019602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1446,Very Low,Moderate,Low,Low,15,46,26,23
+6073019701,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,937,Moderate,Low,Low,Low,42,21,26,27
+6073019702,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1169,Low,Very Low,Low,Low,25,14,37,31
+6073019803,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,992,High,High,Moderate,High,77,66,59,68
+6073019804,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1040,Very High,Very High,Very High,Very High,81,97,83,87
+6073019805,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1017,High,Very Low,Low,Low,63,1,36,39
+6073019806,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3323,High,High,Moderate,High,66,73,60,64
+6073019808,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,508,Moderate,Very High,High,High,54,90,66,63
+6073019809,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,802,Moderate,Very Low,High,High,59,18,80,68
+6073019902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,978,Low,Very Low,Moderate,Low,21,19,47,39
+6073019903,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,951,Low,Very Low,Low,Very Low,21,8,25,19
+6073019904,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1122,Moderate,Moderate,Low,Low,43,53,27,33
+6073019905,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,494,Moderate,High,Moderate,Moderate,42,70,49,48
+6073020013,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3308,High,Very High,High,High,65,92,61,65
+6073020014,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1380,High,Moderate,Very High,High,69,58,81,78
+6073020015,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,565,Very High,Very High,Moderate,High,81,85,55,68
+6073020016,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2667,Very High,Very High,High,High,85,88,66,78
+6073020017,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,644,Low,Very Low,Low,Low,35,2,30,24
+6073020018,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2380,Low,Very Low,Low,Low,39,13,26,25
+6073020019,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1332,Low,Moderate,Moderate,Moderate,35,44,55,48
+6073020020,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1945,Moderate,Moderate,Moderate,Moderate,58,59,43,49
+6073020021,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2156,Moderate,Very Low,Low,Low,51,14,33,37
+6073020022,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1998,Moderate,High,Moderate,Moderate,59,79,52,57
+6073020023,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,910,Moderate,Moderate,Moderate,Moderate,53,48,52,52
+6073020024,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,620,Moderate,Very Low,Moderate,Low,59,1,44,40
+6073020025,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,883,Moderate,Moderate,Moderate,Moderate,59,52,50,53
+6073020026,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,885,Moderate,Moderate,High,High,55,56,67,61
+6073020027,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3929,High,High,High,High,68,70,69,69
+6073020028,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1294,Moderate,Very Low,Very Low,Very Low,43,1,5,7
+6073020029,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1202,Moderate,Very Low,Low,Low,41,5,26,25
+6073020103,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2498,Low,Very High,High,Moderate,39,84,64,58
+6073020105,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,695,Moderate,Very Low,High,Moderate,42,6,64,50
+6073020106,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,961,Very Low,Low,Low,Low,19,36,37,33
+6073020107,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1106,Very Low,Moderate,High,Moderate,10,58,67,52
+6073020108,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1769,Very Low,Very Low,Low,Very Low,4,1,26,13
+6073020109,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1768,Very Low,Very Low,Low,Low,6,7,39,26
+6073020202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1964,Very Low,Very Low,Very Low,Very Low,4,1,15,9
+6073020206,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1559,Very Low,Very Low,Low,Very Low,17,6,24,17
+6073020207,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1602,Low,Very Low,Very Low,Very Low,21,4,16,13
+6073020208,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,821,Very Low,Low,Moderate,Low,14,21,44,36
+6073020209,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1129,Low,Very Low,Low,Low,23,6,26,21
+6073020210,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1396,Low,Very Low,Moderate,Low,31,10,42,36
+6073020211,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2249,Low,Very Low,Low,Low,25,13,32,26
+6073020213,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1697,Very Low,Very Low,Very Low,Very Low,2,2,5,3
+6073020214,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1833,Very Low,Very Low,Very Low,Very Low,8,1,10,6
+6073020304,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1066,High,High,High,High,63,73,78,73
+6073020305,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1615,Low,Very Low,Moderate,Low,29,19,47,40
+6073020306,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1192,Moderate,Moderate,Moderate,Moderate,54,57,41,45
+6073020307,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1476,Moderate,Low,Moderate,Moderate,42,39,47,45
+6073020308,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,749,Low,Very Low,Very Low,Very Low,27,3,16,14
+6073020309,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1186,Low,Low,Moderate,Moderate,21,33,50,41
+6073020401,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,427,High,Very High,Very High,Very High,73,88,100,96
+6073020403,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1153,Low,Low,Moderate,Moderate,30,39,58,48
+6073020404,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1384,Moderate,Very Low,Moderate,Moderate,42,20,45,41
+6073020405,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,550,High,Very High,Very High,Very High,65,88,86,81
+6073020500,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1593,Very Low,Very Low,Low,Low,15,1,37,24
+6073020601,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1952,Very Low,Very Low,Very Low,Very Low,8,1,12,8
+6073020602,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1282,Very Low,Very Low,Low,Very Low,17,5,21,14
+6073020705,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1145,Low,Moderate,Moderate,Moderate,38,54,51,46
+6073020706,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1453,Moderate,High,Very High,High,55,75,83,74
+6073020707,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1353,Low,Very Low,Very Low,Very Low,21,2,19,13
+6073020708,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,697,Moderate,Moderate,High,High,51,41,73,61
+6073020709,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2228,Moderate,Very High,High,High,43,82,72,62
+6073020710,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,351,High,High,High,High,68,75,74,73
+6073020801,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1192,Moderate,Moderate,High,High,57,55,77,68
+6073020805,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,824,Moderate,Low,Low,Low,47,33,39,40
+6073020806,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2215,Moderate,Low,Low,Low,42,28,40,39
+6073020807,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,373,Moderate,Low,Moderate,Moderate,52,21,60,55
+6073020809,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2186,Moderate,Moderate,Moderate,Moderate,44,57,49,48
+6073020810,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1292,High,Very High,High,High,61,95,79,75
+6073020811,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1466,High,High,Moderate,Moderate,63,70,47,55
+6073020902,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,246,Moderate,Moderate,Very Low,Very Low,41,41,12,19
+6073020903,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,370,Very Low,Very Low,Very Low,Very Low,18,1,2,2
+6073020904,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,682,Moderate,Very Low,Low,Low,53,14,37,39
+6073021000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,346,Very Low,Very Low,Low,Very Low,18,1,34,20
+6073021100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1878,Very Low,Very Low,Very Low,Very Low,8,1,9,5
+6073021202,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,814,Low,Very Low,Low,Low,40,16,29,28
+6073021204,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,886,Moderate,High,High,High,49,61,79,67
+6073021205,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1526,Moderate,Moderate,Low,Moderate,48,45,40,43
+6073021206,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,466,Moderate,High,Very High,High,59,61,83,74
+6073021302,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1203,Low,High,Low,Low,38,61,24,27
+6073021303,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2204,High,High,Very High,High,68,71,81,78
+6073021304,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,670,Moderate,Moderate,High,High,50,45,79,66
+6073021400,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1456,High,Low,Moderate,Moderate,62,40,52,54
+6073021500,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3165,Very High,Very High,Very High,Very High,92,93,99,98
+6073021600,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,689,High,Low,Low,Low,73,29,26,40
+6073021800,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,682,High,Very High,Moderate,High,80,97,47,65
+6073021900,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,498,Moderate,Very Low,Very Low,Very Low,42,1,1,1
+6073022000,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1209,Low,Very Low,Very Low,Very Low,32,2,13,13
+6073022100,2010,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2714,Very High,Moderate,High,High,81,56,67,74
+6073000100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,403,High,Very High,Very High,Very High,77,83,100,94
+6073000201,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,307,High,High,Very High,Very High,70,79,88,84
+6073000202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,782,High,High,Very High,Very High,69,64,92,85
+6073000300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,361,High,Low,High,High,69,27,64,63
+6073000400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,294,High,High,Moderate,Moderate,62,69,48,55
+6073000500,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,359,Moderate,Very High,High,High,60,83,66,65
+6073000600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,246,Moderate,Low,High,High,56,24,78,66
+6073000700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,253,High,High,High,High,67,63,80,75
+6073000800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,441,High,Moderate,High,High,62,55,78,71
+6073000900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,576,Moderate,Very Low,High,Moderate,51,13,65,56
+6073001000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,496,Moderate,Low,Moderate,Moderate,45,35,52,48
+6073001100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,399,Moderate,Low,Very High,High,43,29,81,66
+6073001200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,743,Low,Low,Low,Low,30,21,34,31
+6073001300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,689,Low,Very Low,Moderate,Moderate,39,15,60,49
+6073001400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,405,High,Moderate,Very High,High,61,47,90,79
+6073001500,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,616,Moderate,Low,High,Moderate,47,22,66,57
+6073001600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,772,Low,Very Low,Low,Very Low,23,3,26,20
+6073001700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,771,Low,Very Low,High,Moderate,28,13,64,48
+6073001800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,964,Low,Very Low,Very Low,Very Low,26,18,10,12
+6073001900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,424,Low,Low,Very High,High,25,28,98,75
+6073002001,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,529,Moderate,Very High,Very High,Very High,49,81,99,86
+6073002002,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,559,Moderate,Low,Moderate,Moderate,43,37,60,53
+6073002100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,508,Low,Low,Low,Low,21,21,31,26
+6073002201,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,902,Very Low,Very Low,Very Low,Very Low,17,2,5,5
+6073002202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1652,Very Low,Very Low,Very Low,Very Low,8,8,1,1
+6073002301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,679,Very Low,Low,Low,Very Low,17,24,22,17
+6073002302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2265,Very Low,Very Low,Very Low,Very Low,14,14,2,1
+6073002401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1312,Low,Very Low,Low,Very Low,23,19,23,19
+6073002402,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1617,Very Low,Very Low,Very Low,Very Low,7,6,11,8
+6073002501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1675,Low,Low,Low,Low,24,28,23,21
+6073002502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1709,Low,Low,Low,Low,37,36,37,38
+6073002601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1287,Very Low,Very Low,Very Low,Very Low,10,10,18,13
+6073002602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1178,Very Low,Very Low,Low,Low,16,12,27,22
+6073002702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1255,Low,Low,Very Low,Very Low,22,31,19,19
+6073002703,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1487,Low,Very Low,Low,Low,31,6,26,23
+6073002705,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1055,Very Low,Moderate,Moderate,Moderate,20,54,55,45
+6073002707,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1746,Very Low,Very Low,Very Low,Very Low,14,2,3,3
+6073002708,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1973,Very Low,Very Low,Very Low,Very Low,16,20,4,4
+6073002709,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1312,Very Low,Low,Very Low,Very Low,13,31,1,2
+6073002710,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1339,Very Low,Low,Very Low,Very Low,14,29,13,14
+6073002711,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1105,Low,Moderate,Low,Low,21,42,28,26
+6073002712,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1262,Low,Low,Low,Low,26,31,24,23
+6073002801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,95,High,Very Low,Moderate,Moderate,68,1,55,50
+6073002803,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,830,Moderate,Very Low,Low,Low,41,13,26,26
+6073002804,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,639,Moderate,Moderate,Moderate,Moderate,55,46,57,55
+6073002902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1244,Moderate,Moderate,Moderate,Moderate,47,49,53,50
+6073002903,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,915,Low,Very Low,Moderate,Moderate,39,11,55,45
+6073002904,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,332,High,Low,Very Low,Low,65,26,19,32
+6073002905,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,881,Moderate,Very Low,Very Low,Very Low,55,4,12,18
+6073003001,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1058,Very Low,Very Low,Moderate,Low,11,4,41,28
+6073003003,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1217,Very Low,Very Low,Moderate,Low,20,20,41,35
+6073003004,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1445,Very Low,Very Low,Very Low,Very Low,7,5,19,12
+6073003101,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,870,Very Low,Very Low,Moderate,Low,8,20,47,37
+6073003103,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1332,Very Low,Low,Very Low,Very Low,2,22,15,11
+6073003105,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1205,Very Low,Moderate,High,Moderate,4,53,62,45
+6073003107,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1212,Very Low,High,Low,Low,11,70,31,28
+6073003108,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1236,Very Low,Moderate,Low,Low,13,54,31,27
+6073003109,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,610,Moderate,Very High,High,Moderate,52,92,62,60
+6073003111,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2154,Very Low,Very Low,Very Low,Very Low,11,5,8,7
+6073003112,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1128,Very Low,Low,Low,Low,20,34,39,35
+6073003113,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,634,Low,Very Low,Moderate,Moderate,40,19,60,50
+6073003114,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,599,Very Low,Low,Moderate,Moderate,17,33,57,43
+6073003115,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1774,Low,Moderate,Very Low,Very Low,26,53,14,18
+6073003201,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1679,Moderate,Moderate,Very Low,Low,50,46,16,24
+6073003202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,941,Moderate,Very Low,Low,Low,52,15,22,25
+6073003204,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,715,Moderate,Low,High,High,47,35,80,65
+6073003207,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1343,High,Very Low,Moderate,Moderate,62,17,58,57
+6073003208,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1660,Moderate,Low,Very Low,Very Low,53,21,10,16
+6073003209,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1184,Moderate,Moderate,Low,Low,53,57,27,37
+6073003211,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,773,Moderate,Very Low,Moderate,Moderate,57,17,45,46
+6073003212,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,835,Moderate,Very Low,Low,Low,53,9,37,38
+6073003213,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,866,Moderate,Moderate,Moderate,Moderate,48,46,59,54
+6073003214,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1052,Low,Moderate,Moderate,Moderate,29,54,54,46
+6073003301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1388,Very Low,Very Low,Very Low,Very Low,10,8,10,9
+6073003303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1585,Very Low,Very Low,Very Low,Very Low,9,16,4,3
+6073003304,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1473,Very Low,Very Low,Very Low,Very Low,16,17,5,6
+6073003305,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2014,Very Low,Very Low,Very Low,Very Low,7,19,2,2
+6073003401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1570,Low,High,Moderate,Moderate,27,66,43,41
+6073003403,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1058,Low,Very Low,Very Low,Very Low,35,1,10,10
+6073003404,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1693,Low,Low,Very Low,Very Low,31,23,11,13
+6073003501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1459,Very Low,Very Low,Low,Very Low,1,4,23,12
+6073003502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1457,Very Low,Very Low,Very Low,Very Low,2,9,6,3
+6073003601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1061,Very Low,Very Low,Very Low,Very Low,4,7,6,5
+6073003602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,984,Very Low,Very Low,Very Low,Very Low,8,17,7,7
+6073003603,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1263,Very Low,Very Low,Very Low,Very Low,3,10,13,10
+6073003901,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1414,Very Low,Very Low,Very Low,Very Low,1,6,4,3
+6073003902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1207,Very Low,Very Low,Very Low,Very Low,2,1,9,4
+6073004000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1531,Very Low,Very Low,Very Low,Very Low,3,2,8,5
+6073004100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1487,Low,Low,Very Low,Very Low,31,27,15,17
+6073004200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1035,Moderate,Low,Very High,High,58,30,90,76
+6073004300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,596,Moderate,Low,High,Moderate,54,36,67,59
+6073004400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,616,Moderate,Moderate,Moderate,Moderate,59,47,57,58
+6073004501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,366,Moderate,Very Low,Low,Low,57,8,31,36
+6073004600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,157,Low,Low,Moderate,Moderate,40,34,45,42
+6073004700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,347,Very Low,Low,Very Low,Very Low,9,36,12,13
+6073004800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1107,Very Low,Very Low,Very Low,Very Low,3,3,11,7
+6073004900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1718,Very Low,Very Low,Very Low,Very Low,5,11,11,9
+6073005000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,692,Very Low,Very Low,Very Low,Very Low,1,4,2,1
+6073005100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,702,Very Low,Low,Very Low,Very Low,20,39,7,10
+6073005200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,453,Low,Low,Low,Very Low,21,22,23,20
+6073005300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,68,Low,Moderate,Very Low,Very Low,28,45,3,6
+6073005400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,281,Low,Low,Low,Low,32,35,30,30
+6073005600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,217,Moderate,Very High,Low,Moderate,59,90,32,44
+6073005700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,11,Moderate,Very Low,Moderate,Low,47,1,53,35
+6073005800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,149,High,Very Low,Moderate,Moderate,63,2,58,53
+6073005900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,114,High,Very Low,High,High,65,2,78,66
+6073006000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,345,High,Very Low,High,High,70,7,75,68
+6073006100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,349,High,Very Low,High,High,68,14,75,69
+6073006300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,56,Moderate,Very Low,Low,Low,59,2,21,25
+6073006500,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,316,High,Very Low,Low,Low,62,3,28,35
+6073006600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,874,Moderate,Low,Very Low,Low,59,25,11,23
+6073006801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,371,High,Low,Moderate,Moderate,67,40,52,58
+6073006802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,864,High,Moderate,Low,Moderate,65,52,38,48
+6073006900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1200,High,Moderate,Very High,Very High,76,54,90,86
+6073007002,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,599,Very High,Moderate,Very High,Very High,84,53,92,89
+6073007100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,711,High,High,High,High,80,75,64,73
+6073007200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,858,Very High,Very High,Very High,Very High,89,88,96,94
+6073007301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,539,Very High,Low,Moderate,High,87,33,57,68
+6073007302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,340,Very High,High,Very High,Very High,85,76,94,92
+6073007400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1036,High,Low,High,High,73,37,68,69
+6073007501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,271,Very High,Low,Moderate,Moderate,81,30,42,57
+6073007502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,249,Very High,Low,High,High,86,37,74,79
+6073007600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,233,Very High,Very Low,Moderate,Moderate,83,19,45,59
+6073007701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,265,High,Very Low,High,High,77,7,73,70
+6073007702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,512,High,Low,Moderate,High,80,21,53,61
+6073007800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1110,High,Very Low,Moderate,Moderate,78,5,58,60
+6073007903,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,302,Very High,Low,Moderate,Moderate,83,26,43,59
+6073007905,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,99,Very High,Low,High,Very High,87,25,80,81
+6073007907,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,152,High,Low,Low,Moderate,77,37,39,55
+6073007908,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,406,Very High,Low,Moderate,Moderate,81,38,44,59
+6073007910,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,124,Very High,Moderate,Moderate,High,83,60,59,70
+6073008002,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,561,Very High,High,Very High,Very High,86,64,86,87
+6073008003,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,453,Very High,High,Very High,Very High,89,76,92,91
+6073008006,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,513,Very High,High,Very High,Very High,92,65,83,89
+6073008101,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,591,Very High,Very Low,High,Very High,94,20,74,81
+6073008102,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,836,Very High,Very High,Very High,Very High,97,86,93,96
+6073008200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,299,Very High,Moderate,High,Very High,99,42,79,88
+6073008301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,504,Very High,Moderate,Very High,Very High,84,59,87,87
+6073008303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,687,Very High,Very High,Very High,Very High,99,87,90,95
+6073008305,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,366,Very High,Moderate,Moderate,High,97,43,47,71
+6073008306,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,771,Very High,High,Very High,Very High,87,78,96,93
+6073008307,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,570,Very High,High,Very High,Very High,90,74,81,87
+6073008310,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1426,Very High,High,Very High,Very High,90,75,88,90
+6073008311,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,748,Very High,Very High,Very High,Very High,97,86,82,91
+6073008312,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,506,Very High,Very High,High,Very High,98,84,80,90
+6073008313,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,467,Very High,High,Very High,Very High,97,70,93,96
+6073008324,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1529,Very High,Very High,Very High,Very High,98,90,88,94
+6073008327,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1554,Very High,Very High,Very High,Very High,98,92,87,93
+6073008328,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2070,Very High,High,Very High,Very High,98,76,98,99
+6073008329,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1658,Very High,High,High,Very High,99,61,77,89
+6073008330,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1639,Very High,High,High,Very High,99,66,77,89
+6073008331,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,633,Very High,Very High,Very High,Very High,99,90,99,100
+6073008333,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4884,Very High,Very High,Very High,Very High,99,95,95,99
+6073008335,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3062,Very High,Moderate,Very High,Very High,95,58,91,93
+6073008336,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,545,Very High,Moderate,Very High,Very High,96,46,99,98
+6073008337,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1090,Very High,High,Very High,Very High,92,63,100,98
+6073008339,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,172,Very High,Moderate,Moderate,High,97,48,53,74
+6073008340,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1246,Very High,Moderate,High,High,89,42,69,79
+6073008341,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,451,Very High,Low,Moderate,High,90,27,42,61
+6073008343,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,534,Very High,Moderate,High,Very High,97,60,68,82
+6073008344,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,736,Very High,High,Very High,Very High,85,70,93,91
+6073008345,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,487,High,High,High,High,74,74,67,71
+6073008346,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,954,High,Very High,Very High,Very High,77,83,100,95
+6073008347,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1445,High,High,Very High,Very High,77,76,85,84
+6073008348,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,977,High,High,High,High,70,68,78,76
+6073008349,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,758,High,Low,Very High,Very High,76,36,86,81
+6073008350,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1309,High,High,Very High,Very High,69,71,97,89
+6073008351,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,715,High,Moderate,Very High,High,73,46,81,78
+6073008352,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,665,High,Very Low,High,High,80,19,67,69
+6073008353,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1039,Very High,Moderate,Very High,Very High,85,60,81,84
+6073008354,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1913,Very High,Very High,Very High,Very High,81,87,88,88
+6073008355,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,767,High,High,Very High,High,75,68,81,80
+6073008356,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,858,High,Moderate,High,High,78,60,79,80
+6073008357,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1016,High,High,Very High,High,70,64,83,80
+6073008358,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1141,High,Moderate,High,High,68,47,75,72
+6073008359,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1031,High,Low,Moderate,Moderate,70,27,55,59
+6073008360,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1207,High,Low,High,High,72,40,78,74
+6073008361,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,264,Very High,Moderate,High,High,93,54,61,76
+6073008362,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,576,Very High,Moderate,High,Very High,94,50,73,84
+6073008363,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,540,Very High,Moderate,Moderate,High,94,44,49,70
+6073008364,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,497,Very High,High,High,Very High,95,77,73,86
+6073008365,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,666,Very High,Very High,Very High,Very High,97,88,96,97
+6073008366,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2072,Very High,Very High,Very High,Very High,97,96,100,100
+6073008501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1350,High,Very High,Very High,High,68,81,82,79
+6073008502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1310,High,Moderate,High,High,65,56,67,65
+6073008503,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1288,High,Very Low,Moderate,Moderate,71,16,47,55
+6073008504,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1194,High,Moderate,High,High,67,48,76,73
+6073008505,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,983,Moderate,Low,Moderate,Moderate,51,22,41,42
+6073008506,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,924,Moderate,Low,High,Moderate,59,36,63,59
+6073008507,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1735,Moderate,Moderate,Moderate,Moderate,57,48,46,50
+6073008509,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1444,Moderate,High,Moderate,Moderate,59,68,52,56
+6073008510,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1306,Moderate,High,Moderate,Moderate,55,65,46,50
+6073008511,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,811,High,Low,Moderate,Moderate,62,33,48,52
+6073008512,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,817,High,Moderate,High,High,64,58,79,73
+6073008513,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,612,Moderate,Moderate,Very High,High,58,50,87,75
+6073008600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1750,Moderate,Low,Low,Low,41,26,29,31
+6073008701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,886,Moderate,Moderate,Low,Low,54,45,34,40
+6073008702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,971,Moderate,Moderate,High,Moderate,58,43,64,59
+6073008800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1601,Moderate,Moderate,Low,Low,44,41,38,40
+6073008901,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,711,Moderate,Moderate,Moderate,Moderate,43,46,55,50
+6073008902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,129,High,Low,High,Moderate,63,35,61,59
+6073009000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1020,Moderate,Low,Moderate,Moderate,48,21,43,42
+6073009101,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,821,Very High,High,Very High,Very High,81,80,86,87
+6073009102,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,519,High,Moderate,Low,Moderate,66,43,27,41
+6073009103,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,604,High,Low,High,High,67,29,70,66
+6073009104,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,558,High,Very High,Very High,Very High,63,95,87,81
+6073009106,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,384,High,Moderate,High,High,70,53,75,74
+6073009107,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,394,High,Very Low,Low,Low,68,4,31,40
+6073009201,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1645,High,Low,Moderate,Moderate,62,30,48,52
+6073009202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,956,High,Low,High,High,65,29,76,69
+6073009301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,997,High,High,Moderate,Moderate,62,70,51,57
+6073009304,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1439,High,Very Low,Moderate,Moderate,61,13,46,48
+6073009305,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,586,High,Very Low,Very High,High,61,7,83,69
+6073009306,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,648,High,Low,High,High,64,28,65,61
+6073009400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,970,High,Very High,Low,Low,64,99,22,40
+6073009502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,757,Very High,Very High,High,Very High,83,89,78,82
+6073009504,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2065,Very High,Very High,Very High,Very High,90,88,96,95
+6073009505,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1426,Very High,High,High,Very High,87,70,80,85
+6073009506,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1069,Very High,Very High,Very High,Very High,85,87,82,87
+6073009507,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,815,Very High,Moderate,High,High,81,53,65,71
+6073009509,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,753,High,Very Low,High,High,76,18,74,71
+6073009510,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2400,High,Very High,Very Low,Low,66,87,12,32
+6073009511,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2352,Moderate,High,Very Low,Low,55,71,15,27
+6073009602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,794,High,Low,Very High,Very High,74,34,86,81
+6073009603,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,546,Moderate,Very Low,Moderate,Moderate,56,16,47,46
+6073009604,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,834,High,High,High,High,66,74,72,70
+6073009703,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,718,Very High,Moderate,Very High,Very High,81,50,85,83
+6073009704,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1179,Very High,High,Very High,Very High,88,75,92,91
+6073009705,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,750,High,Very High,Very High,Very High,78,85,93,89
+6073009706,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1311,Very High,High,Very High,Very High,84,63,93,90
+6073009801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,975,Very High,Moderate,Very High,Very High,86,41,90,88
+6073009802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1395,High,High,High,High,77,77,63,70
+6073009804,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1060,High,Very High,Very High,Very High,80,86,93,90
+6073009805,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,970,Very High,High,High,Very High,85,75,77,81
+6073009901,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,14,High,Very High,Very Low,Very Low,65,100,2,13
+6073010001,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,635,Low,High,Moderate,Moderate,38,76,58,53
+6073010003,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1419,Low,High,Moderate,Moderate,39,73,48,47
+6073010004,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1040,Low,Moderate,Low,Low,34,43,22,24
+6073010005,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2276,Very Low,Moderate,Very Low,Very Low,18,43,5,8
+6073010009,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2416,Very Low,Very High,Very Low,Very Low,9,92,7,11
+6073010010,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1366,Very Low,Low,Low,Very Low,18,38,21,19
+6073010011,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,995,Low,Moderate,Low,Low,27,42,32,32
+6073010012,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1504,Very Low,Moderate,Low,Very Low,15,47,22,20
+6073010013,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1746,Very Low,Low,Very Low,Very Low,7,28,4,5
+6073010014,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4353,Moderate,High,Low,Low,43,61,34,39
+6073010015,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,918,Low,Very High,Moderate,Moderate,31,82,46,45
+6073010103,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1625,Very Low,Very High,Very Low,Very Low,13,83,13,16
+6073010104,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,847,Very Low,Moderate,Low,Low,15,59,32,30
+6073010106,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1672,Low,High,Low,Low,21,68,21,22
+6073010107,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1532,Low,Low,Low,Low,25,25,38,35
+6073010109,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1140,Low,Very High,Moderate,Moderate,29,88,46,45
+6073010110,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2244,Very Low,Low,Low,Low,18,23,25,21
+6073010111,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,774,Low,Low,Very Low,Very Low,27,32,2,3
+6073010112,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1646,Very Low,Very Low,Very Low,Very Low,19,3,5,5
+6073010200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1546,Low,Very Low,Low,Low,35,18,25,24
+6073010300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1114,Low,Very Low,Low,Very Low,36,10,21,20
+6073010401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,598,Low,Very Low,Very Low,Very Low,23,16,13,14
+6073010402,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1835,Low,Very Low,Low,Very Low,23,1,22,14
+6073010501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,281,Moderate,High,Low,Low,47,75,26,35
+6073010502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1701,Low,Very Low,Very Low,Very Low,33,7,15,15
+6073010601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,341,High,Very High,Moderate,Moderate,66,93,45,58
+6073010800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,565,High,Very High,High,High,69,82,67,70
+6073010900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,424,High,Very High,Moderate,High,69,99,55,65
+6073011000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,682,High,Very High,Moderate,High,66,99,57,65
+6073011100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1143,High,Moderate,Moderate,High,67,60,59,63
+6073011300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,38,High,Very Low,Moderate,Low,62,1,44,40
+6073011601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1567,Very Low,Low,Very Low,Very Low,19,31,12,14
+6073011602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,978,Low,Moderate,Very Low,Very Low,21,42,10,13
+6073011700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1008,Low,Very Low,Very Low,Very Low,23,11,7,9
+6073011801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,755,Very Low,Very Low,Very Low,Very Low,17,6,10,9
+6073011802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2630,Very Low,Low,Very Low,Very Low,13,24,6,8
+6073011902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,911,Low,Low,Low,Low,40,22,35,36
+6073012002,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,645,Low,Low,Very Low,Very Low,33,26,7,11
+6073012003,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,826,Moderate,Moderate,Low,Low,42,60,36,39
+6073012101,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,604,Very Low,Low,Low,Low,16,29,35,27
+6073012102,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,868,Low,Moderate,Low,Low,35,47,29,32
+6073012200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,799,Low,Very Low,Low,Low,39,15,30,28
+6073012302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,440,Moderate,Very Low,Very Low,Very Low,41,5,9,11
+6073012303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,566,Low,Low,Low,Low,32,25,26,25
+6073012304,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,876,Moderate,Moderate,Low,Low,42,50,30,35
+6073012401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,970,Low,Very Low,Very Low,Very Low,34,16,12,15
+6073012402,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1482,Low,Low,Low,Low,29,24,25,23
+6073012501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,606,Low,Very Low,Very Low,Very Low,21,2,4,3
+6073012502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1264,Low,Low,Very Low,Low,32,32,20,21
+6073012600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1188,Low,Very Low,Low,Very Low,33,1,24,17
+6073012700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1247,Low,Very Low,Very Low,Very Low,35,12,19,18
+6073012800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,782,Moderate,Moderate,Low,Low,42,41,38,39
+6073012900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,759,Moderate,Very Low,Moderate,Moderate,48,14,58,51
+6073013000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1771,Moderate,Low,Low,Low,41,26,25,26
+6073013102,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1679,Moderate,Very Low,Low,Low,41,12,35,34
+6073013103,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,638,Low,Low,Moderate,Low,22,24,47,40
+6073013104,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1531,Low,Very Low,Low,Very Low,27,10,21,18
+6073013203,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1974,Low,Very Low,Very Low,Very Low,22,15,1,1
+6073013204,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,969,Low,Low,Low,Low,30,40,26,26
+6073013205,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,858,Very Low,Low,Very Low,Very Low,5,21,19,14
+6073013206,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1565,Very Low,Very Low,Low,Low,10,15,27,21
+6073013301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1186,Moderate,Low,Moderate,Moderate,47,30,53,48
+6073013302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1040,Low,Low,Low,Low,35,38,30,31
+6073013303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1154,Low,Low,Low,Low,36,25,30,30
+6073013306,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,877,Moderate,Low,Very Low,Low,43,25,19,23
+6073013307,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1107,Moderate,Moderate,Moderate,Moderate,44,51,42,43
+6073013308,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1217,Moderate,Very Low,Low,Low,42,14,34,34
+6073013309,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1783,Moderate,Moderate,High,High,56,52,73,64
+6073013310,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,8402,High,Moderate,Moderate,High,78,56,50,63
+6073013311,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3476,High,Very High,High,High,67,96,71,73
+6073013312,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,697,Moderate,Moderate,Moderate,Moderate,55,42,48,49
+6073013313,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4585,High,Very High,High,High,80,94,70,76
+6073013314,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,6369,High,High,High,High,72,78,68,71
+6073013401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,692,Moderate,Low,Moderate,Moderate,52,38,57,53
+6073013409,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,993,Moderate,Low,Moderate,Moderate,59,22,48,49
+6073013410,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2195,High,Very High,Very High,Very High,74,82,89,86
+6073013411,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,937,High,High,Very High,Very High,75,73,86,82
+6073013412,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,942,Moderate,Moderate,High,High,60,46,74,66
+6073013414,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1691,High,High,High,High,70,68,79,78
+6073013415,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,242,High,Very High,Very High,Very High,78,84,86,86
+6073013416,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,810,High,Moderate,High,High,76,46,72,74
+6073013417,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,427,High,Very High,High,High,74,97,76,80
+6073013418,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1807,High,Moderate,High,High,71,45,66,67
+6073013419,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2699,Very High,Very High,High,High,83,97,65,76
+6073013420,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,790,High,Moderate,High,High,73,48,73,72
+6073013421,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1112,High,High,Moderate,High,70,62,55,61
+6073013503,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1356,Low,Low,Low,Low,37,35,33,35
+6073013504,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,865,Low,Very High,Moderate,Moderate,36,89,59,55
+6073013505,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1152,Moderate,Moderate,Low,Moderate,52,43,39,43
+6073013506,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1179,Moderate,Moderate,Moderate,Moderate,53,58,49,51
+6073013601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1252,Moderate,Moderate,Moderate,Moderate,50,49,45,46
+6073013604,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1492,High,High,Moderate,High,69,65,60,65
+6073013605,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1500,High,High,High,High,66,80,69,70
+6073013606,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1118,High,High,High,High,74,61,61,66
+6073013701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,462,High,Moderate,Very High,Very High,65,51,96,87
+6073013702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1646,Low,Low,Low,Low,30,26,23,22
+6073013801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1151,Moderate,Moderate,High,Moderate,47,41,63,56
+6073013802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,995,Very Low,Very Low,Low,Low,17,19,29,24
+6073013903,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,824,Low,Low,Low,Low,24,29,39,36
+6073013905,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,923,Very Low,Moderate,High,Moderate,17,60,72,55
+6073013906,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1228,Very Low,Moderate,Very Low,Very Low,8,50,13,13
+6073013907,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1267,Very Low,Very Low,Very Low,Very Low,6,2,20,12
+6073013908,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1203,Very Low,Very Low,Low,Low,15,19,33,26
+6073013909,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1037,Very Low,Low,Low,Low,16,29,35,28
+6073014001,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1175,Low,Low,Low,Low,28,35,38,36
+6073014002,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1193,Low,Very Low,Moderate,Moderate,24,12,52,41
+6073014101,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1035,Low,Very Low,Low,Low,29,11,31,26
+6073014102,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,880,Very Low,Moderate,Low,Low,10,53,28,25
+6073014200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1456,Low,Low,High,Moderate,28,32,67,54
+6073014300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,924,Low,Low,Moderate,Low,29,39,45,40
+6073014400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1105,Low,Very Low,Very Low,Very Low,26,12,6,8
+6073014500,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1199,Low,Low,Low,Low,34,38,28,29
+6073014601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,911,Moderate,Low,Low,Low,50,25,39,40
+6073014602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1280,Moderate,High,High,High,50,70,77,67
+6073014700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1945,Moderate,Low,Moderate,Moderate,56,33,43,46
+6073014803,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,919,High,High,High,Moderate,61,65,61,60
+6073014804,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,549,High,Very Low,Moderate,Moderate,66,6,49,52
+6073014805,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,749,Moderate,Low,High,Moderate,58,38,61,59
+6073014806,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,503,Moderate,Very Low,Low,Low,54,9,30,34
+6073014901,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,766,High,Low,Low,Low,61,36,25,36
+6073014902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,559,High,Very High,Moderate,Moderate,63,86,41,52
+6073015000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1288,High,Moderate,Moderate,Moderate,68,45,44,54
+6073015100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1032,High,Low,High,High,70,38,63,64
+6073015200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,750,High,Very High,Very High,High,65,93,81,78
+6073015301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,838,Moderate,Low,Very Low,Low,48,26,20,25
+6073015302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,810,Moderate,Moderate,High,High,59,44,72,64
+6073015403,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,576,Moderate,Very High,Very High,High,55,83,85,75
+6073015404,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2330,Low,High,Low,Low,40,63,26,32
+6073015405,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1225,Moderate,Very High,Very High,High,53,81,87,76
+6073015406,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,531,High,Very High,Very High,Very High,64,88,91,83
+6073015501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,996,Low,High,High,Moderate,31,69,63,54
+6073015502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,620,Low,Moderate,High,Moderate,38,54,67,58
+6073015601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1467,Very Low,High,Low,Low,6,76,31,27
+6073015602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,348,Low,High,Very High,High,38,75,91,74
+6073015701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2225,Very Low,Moderate,Very Low,Very Low,12,41,2,2
+6073015703,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1991,Low,Moderate,Very Low,Very Low,37,50,3,6
+6073015704,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,988,Very Low,Very Low,Low,Low,16,9,28,22
+6073015801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,736,Low,Very Low,Very Low,Very Low,38,13,8,11
+6073015802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,973,Low,Low,Very Low,Very Low,36,30,3,6
+6073015901,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1153,Very Low,Very Low,Very Low,Very Low,10,1,7,4
+6073015902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1502,Moderate,Low,Low,Low,48,23,23,25
+6073016000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,523,Moderate,Moderate,Moderate,Moderate,55,52,42,47
+6073016100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1316,Moderate,High,High,High,49,66,78,67
+6073016201,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1071,Moderate,Very High,High,High,59,82,76,70
+6073016202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,850,Very Low,Very Low,Very Low,Very Low,19,2,13,11
+6073016301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1417,Very Low,Low,Very Low,Very Low,4,30,6,6
+6073016302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1781,Very Low,Very Low,Very Low,Very Low,5,13,14,11
+6073016401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1317,Very Low,High,Moderate,Moderate,19,74,56,47
+6073016402,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1809,Very Low,Moderate,Low,Low,15,49,28,25
+6073016502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2264,Very Low,Low,Very Low,Very Low,3,34,11,10
+6073016503,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,888,Low,Very Low,Low,Low,26,9,36,30
+6073016504,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2056,Very Low,Low,Very Low,Very Low,1,27,14,9
+6073016605,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1326,Moderate,Moderate,High,High,59,51,67,63
+6073016606,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1048,High,Very High,High,High,63,93,73,71
+6073016607,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1363,High,High,Moderate,High,65,61,60,61
+6073016608,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,637,High,Very High,Very High,High,65,92,82,79
+6073016609,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1389,High,High,High,High,68,79,61,66
+6073016610,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1085,High,Moderate,High,High,63,55,68,66
+6073016612,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1497,High,Very High,Very High,High,69,85,81,79
+6073016613,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,415,High,High,Very High,High,71,61,81,78
+6073016614,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1000,High,Moderate,High,High,67,57,71,69
+6073016615,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,695,High,High,Very Low,Low,65,79,7,24
+6073016616,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1129,Moderate,Low,Moderate,Moderate,57,38,41,45
+6073016617,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,791,Moderate,Very Low,Moderate,Moderate,60,14,44,46
+6073016701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2413,Moderate,Moderate,Very High,High,60,47,82,74
+6073016702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1796,Moderate,High,Moderate,Moderate,58,64,44,50
+6073016802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1058,Low,Moderate,High,Moderate,38,52,65,56
+6073016804,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1993,Low,Low,Very Low,Very Low,36,29,18,20
+6073016806,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,983,Low,Moderate,Moderate,Moderate,33,57,47,44
+6073016807,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1524,Low,High,High,Moderate,37,67,65,57
+6073016809,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1420,Low,Very High,High,Moderate,21,84,76,60
+6073016810,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,670,Low,High,High,Moderate,36,70,64,56
+6073016811,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1098,Low,Moderate,High,Moderate,33,45,68,57
+6073016901,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1843,Moderate,Moderate,High,High,54,41,74,64
+6073016902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,673,Low,Low,Low,Low,38,37,39,39
+6073017006,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,625,Very High,High,Very High,Very High,90,76,90,91
+6073017009,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1116,High,Low,Moderate,Moderate,74,34,47,58
+6073017010,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,724,Very High,Very High,Very High,Very High,81,97,92,91
+6073017014,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,0,Very High,Low,Very High,Very High,94,29,100,99
+6073017015,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1769,Very High,High,Very High,Very High,93,67,83,88
+6073017018,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,961,Very High,Low,High,High,86,24,62,70
+6073017019,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,836,Very High,High,Low,Moderate,87,66,36,59
+6073017020,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,782,Very High,Very High,Very High,Very High,92,97,93,96
+6073017021,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,523,High,High,High,High,79,80,75,79
+6073017022,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1563,Very High,Very High,High,Very High,91,90,75,86
+6073017029,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2303,Very High,Very High,Very High,Very High,98,83,89,94
+6073017030,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,6933,Very High,Very High,Very High,Very High,96,98,95,98
+6073017031,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1156,Very High,High,High,Very High,94,80,74,86
+6073017032,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,4982,Very High,High,Very High,Very High,93,72,97,96
+6073017033,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1066,Very High,Very High,Very High,Very High,91,94,86,91
+6073017034,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1268,Very High,High,Very High,Very High,87,75,93,91
+6073017035,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,845,Very High,Very High,Moderate,High,88,86,42,65
+6073017036,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1107,Very High,Moderate,High,Very High,89,58,77,83
+6073017037,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1419,Very High,High,High,Very High,88,75,78,84
+6073017039,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1720,Very High,High,Very High,Very High,90,71,92,92
+6073017040,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1087,High,High,Very High,High,71,80,82,80
+6073017041,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1554,High,Moderate,Very High,Very High,74,51,89,84
+6073017042,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2312,Very High,Very High,Very High,Very High,90,92,94,94
+6073017043,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1748,Very High,Very High,Very High,Very High,89,82,92,92
+6073017044,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1817,Very High,High,Very High,Very High,91,77,96,95
+6073017045,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,782,Very High,Very High,Very High,Very High,93,91,100,100
+6073017046,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,832,Very High,High,Very High,Very High,92,80,92,93
+6073017047,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,998,Very High,Very High,Very High,Very High,97,86,99,100
+6073017048,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2215,High,Moderate,High,High,71,60,61,66
+6073017049,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1053,High,Very High,Low,Moderate,73,90,40,58
+6073017050,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,598,High,High,High,High,79,66,73,76
+6073017051,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,913,Very High,High,High,Very High,88,71,79,85
+6073017052,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1251,Very High,Low,Very High,Very High,86,40,85,85
+6073017053,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,864,Very High,Very High,Very High,Very High,86,97,100,98
+6073017054,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1235,Very High,Very Low,Very High,Very High,82,20,98,91
+6073017055,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1294,Very High,High,Very High,Very High,85,80,99,95
+6073017056,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,891,Very High,High,Very High,Very High,89,67,97,94
+6073017104,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,864,Very High,High,High,Very High,87,64,78,82
+6073017106,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1035,Very High,Low,High,High,84,31,63,70
+6073017107,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,726,Very High,Very High,Very High,Very High,92,91,94,95
+6073017108,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1109,Very High,Very High,Very High,Very High,87,89,98,95
+6073017109,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1805,Very High,Very High,Very High,Very High,92,89,83,89
+6073017110,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3610,Very High,Very High,High,High,83,85,66,75
+6073017200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,521,Very High,Very Low,Very High,Very High,100,16,84,90
+6073017303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,625,Very High,Moderate,Very High,Very High,97,54,91,93
+6073017304,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,828,Very High,Moderate,High,Very High,92,54,74,82
+6073017305,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,592,Very High,Very High,Very High,Very High,92,99,94,97
+6073017306,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,460,Very High,Very High,Very High,Very High,99,90,84,93
+6073017401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,765,Very High,High,Very High,Very High,83,69,84,85
+6073017403,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,985,Very High,Very High,Very High,Very High,87,95,99,98
+6073017404,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1499,Very High,Low,Very High,Very High,81,35,82,81
+6073017501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,375,Very High,High,Very High,Very High,86,66,81,85
+6073017502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,868,Very High,Low,High,High,82,33,62,69
+6073017601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,966,Very High,Moderate,High,Very High,87,44,79,82
+6073017603,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,467,Very High,Moderate,Very High,Very High,84,49,86,86
+6073017604,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1683,Very High,Moderate,High,High,85,48,71,77
+6073017701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1245,Very High,Moderate,Moderate,High,84,56,45,62
+6073017702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,524,Very High,Moderate,Very High,Very High,84,53,82,83
+6073017801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1080,High,Moderate,Moderate,High,77,48,57,65
+6073017808,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1279,Very High,Very High,Very High,Very High,95,91,98,98
+6073017809,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,547,Very High,High,Very High,Very High,85,74,87,88
+6073017810,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,932,Very High,High,High,High,88,65,68,79
+6073017811,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1809,Very High,Very High,Moderate,High,95,84,60,80
+6073017813,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,869,Very High,Very High,High,Very High,95,84,74,87
+6073017900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1366,High,Very Low,Low,Moderate,77,16,36,49
+6073018000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,414,High,Low,Moderate,High,79,22,54,61
+6073018100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1326,Moderate,Moderate,Moderate,Moderate,46,57,54,51
+6073018200,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1637,Low,Very Low,Very Low,Very Low,23,14,19,17
+6073018300,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,363,Low,Very Low,Low,Low,27,6,35,27
+6073018400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,571,Low,Low,Very Low,Very Low,33,33,8,12
+6073018504,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1276,Low,High,Moderate,Moderate,25,68,46,42
+6073018507,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2152,Low,Low,Moderate,Moderate,28,39,48,42
+6073018509,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1216,Very Low,Low,Very Low,Very Low,12,34,20,17
+6073018510,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,658,Very Low,Moderate,Moderate,Low,2,45,53,39
+6073018511,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1122,Very Low,Moderate,Low,Low,8,51,38,32
+6073018512,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,346,Very Low,Moderate,Low,Low,18,44,24,22
+6073018513,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2576,Moderate,High,Moderate,Moderate,51,62,54,53
+6073018514,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1759,High,Very High,Moderate,High,61,81,59,61
+6073018515,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,808,Low,Moderate,High,Moderate,31,52,72,58
+6073018516,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,912,Moderate,Low,Moderate,Moderate,45,40,50,47
+6073018517,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,873,Low,Low,Low,Low,38,36,31,32
+6073018518,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,918,Moderate,Low,Moderate,Moderate,42,40,58,52
+6073018519,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1676,Moderate,Moderate,Low,Low,48,44,32,38
+6073018601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1353,Very Low,High,Low,Low,13,65,40,37
+6073018603,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2131,Very Low,Very Low,Very Low,Very Low,12,9,9,8
+6073018608,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,603,Low,Very High,High,High,24,84,77,61
+6073018609,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1475,Very Low,Low,Moderate,Low,11,25,45,37
+6073018610,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1901,Very Low,Low,Low,Low,4,37,29,22
+6073018611,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2409,Moderate,High,Low,Moderate,46,79,37,42
+6073018612,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1099,Moderate,Very High,Moderate,Moderate,49,81,47,49
+6073018613,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,802,Low,Very High,Low,Low,32,88,37,39
+6073018614,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1112,Very Low,Very Low,Low,Very Low,8,13,25,17
+6073018700,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,9838,Moderate,Very High,Very Low,Low,45,100,16,30
+6073018801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,575,Low,Very High,Low,Low,27,88,28,33
+6073018802,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1058,Moderate,Very High,Moderate,Moderate,44,81,59,57
+6073018803,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,734,Moderate,High,High,High,60,65,63,61
+6073018903,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1005,Low,Moderate,Low,Low,27,48,27,27
+6073018904,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1484,Low,Very Low,Low,Low,28,8,34,27
+6073018905,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2035,Very Low,Moderate,Low,Low,17,52,33,31
+6073018906,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1651,Very Low,Low,Low,Low,19,31,36,31
+6073019001,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,837,Low,Low,High,Moderate,35,22,64,52
+6073019002,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,319,Low,Moderate,Low,Low,33,44,29,30
+6073019101,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2446,Low,Moderate,Low,Low,30,44,32,33
+6073019103,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1303,Low,High,High,Moderate,38,79,72,60
+6073019105,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1185,Moderate,Low,Moderate,Moderate,41,34,57,49
+6073019106,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2429,Low,Low,Moderate,Moderate,32,27,52,44
+6073019107,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,475,Low,Moderate,Low,Low,26,43,37,36
+6073019203,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,496,Low,Very High,High,Moderate,40,89,63,58
+6073019205,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1769,Very Low,Very Low,Low,Low,20,8,37,28
+6073019206,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1948,Very Low,Very Low,Moderate,Low,12,18,42,34
+6073019207,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1824,Low,High,Low,Low,24,64,35,35
+6073019208,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,569,Low,High,High,Moderate,36,70,61,55
+6073019301,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1560,Moderate,High,High,High,56,69,75,68
+6073019302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1404,Low,Moderate,Low,Moderate,40,49,40,41
+6073019303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1452,Moderate,Low,Moderate,Moderate,49,33,56,51
+6073019403,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,994,Very Low,Low,Moderate,Low,10,29,42,34
+6073019404,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,803,Very Low,Low,Moderate,Low,3,28,57,40
+6073019405,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1070,Moderate,Moderate,Moderate,Moderate,47,42,42,43
+6073019406,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,943,Low,Moderate,Low,Low,24,42,38,36
+6073019501,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1116,Very Low,Very Low,Very Low,Very Low,1,6,18,10
+6073019502,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2047,Very Low,Very Low,Low,Very Low,6,11,24,15
+6073019503,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1283,Very Low,Low,Low,Low,5,32,31,24
+6073019601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1698,Very Low,High,Low,Low,9,69,40,37
+6073019602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1155,Low,Moderate,Moderate,Moderate,25,59,50,44
+6073019701,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1229,Moderate,Low,Low,Low,44,39,28,33
+6073019702,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1002,Low,High,High,Moderate,37,67,72,59
+6073019803,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1195,Very High,High,Moderate,High,84,71,55,69
+6073019804,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,907,Very High,High,High,Very High,85,67,80,84
+6073019805,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,840,High,Moderate,Moderate,Moderate,77,45,49,60
+6073019806,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3124,High,Very High,Moderate,High,76,95,56,68
+6073019808,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,304,High,Very High,High,High,61,81,76,72
+6073019809,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,628,High,Low,High,High,68,34,71,68
+6073019902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,884,Low,Moderate,Moderate,Moderate,25,53,59,49
+6073019903,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,973,Low,Low,High,Moderate,30,37,72,57
+6073019904,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1240,Moderate,Very High,Moderate,Moderate,50,84,51,53
+6073019905,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,829,Low,High,Low,Low,38,64,32,37
+6073020013,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,3906,Very High,Very High,Very High,Very High,81,85,87,87
+6073020014,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1505,Very High,Moderate,Very High,Very High,82,57,85,84
+6073020015,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1026,Very High,Very High,High,Very High,89,84,76,85
+6073020016,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2624,Very High,Very High,Very High,Very High,91,91,89,92
+6073020017,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,860,Very Low,Very Low,Low,Low,18,20,30,24
+6073020018,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2248,Low,Low,Moderate,Moderate,24,36,53,44
+6073020019,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1043,Moderate,Moderate,High,High,53,47,74,63
+6073020020,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2434,Moderate,Very High,Very High,Very High,52,98,91,81
+6073020021,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1619,Moderate,Low,Moderate,Moderate,51,35,59,55
+6073020022,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1761,Moderate,Moderate,Moderate,Moderate,56,50,44,48
+6073020023,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,803,High,Moderate,High,High,63,59,73,68
+6073020024,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,709,High,Very Low,High,High,63,19,69,63
+6073020025,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1076,High,Moderate,Moderate,Moderate,62,59,44,52
+6073020026,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,843,Moderate,High,High,Moderate,57,61,65,60
+6073020027,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,5511,High,Very High,Very High,Very High,75,92,83,82
+6073020028,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1744,Low,Very Low,Very Low,Very Low,39,7,16,16
+6073020029,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1389,Low,Very Low,Low,Low,36,1,35,28
+6073020103,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2188,Moderate,High,High,High,53,78,70,64
+6073020105,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,994,Moderate,Moderate,Moderate,Moderate,49,53,46,46
+6073020106,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,869,Low,Low,High,Moderate,21,32,79,59
+6073020107,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,934,Low,High,Moderate,Moderate,32,73,56,50
+6073020108,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1751,Very Low,Very Low,Low,Very Low,4,16,22,14
+6073020109,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1194,Very Low,Very Low,Moderate,Moderate,20,12,57,42
+6073020202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2550,Very Low,Very Low,Very Low,Very Low,5,5,9,6
+6073020206,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1860,Low,Low,Very Low,Very Low,34,21,16,19
+6073020207,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1518,Low,Very Low,Very Low,Very Low,32,3,20,16
+6073020208,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,571,Moderate,Low,Moderate,Moderate,41,40,45,43
+6073020209,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1566,Low,Very Low,Very Low,Very Low,28,10,14,14
+6073020210,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1315,Moderate,High,Moderate,Moderate,42,63,43,44
+6073020211,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1969,Low,Low,Very Low,Very Low,22,23,19,16
+6073020213,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1368,Very Low,Very Low,Very Low,Very Low,2,3,8,5
+6073020214,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1782,Very Low,Very Low,Very Low,Very Low,6,4,3,2
+6073020304,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1305,High,High,Very High,High,63,71,86,78
+6073020305,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1206,Low,Moderate,High,Moderate,40,45,67,58
+6073020306,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1599,Moderate,High,Moderate,Moderate,57,73,50,54
+6073020307,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1321,Moderate,High,Moderate,Moderate,46,74,58,55
+6073020308,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1061,Very Low,Very Low,Very Low,Very Low,15,8,10,9
+6073020309,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1238,Low,Very Low,Moderate,Moderate,34,18,49,41
+6073020401,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,396,High,High,Very High,Very High,69,77,91,86
+6073020403,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,847,Low,High,Moderate,Moderate,28,76,52,47
+6073020404,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,796,Moderate,High,Moderate,Moderate,43,61,57,54
+6073020405,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,547,High,High,Very High,Very High,72,80,98,90
+6073020500,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1464,Very Low,Very Low,Low,Very Low,12,7,26,19
+6073020601,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2006,Very Low,Very Low,Low,Very Low,3,14,31,20
+6073020602,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1510,Very Low,Low,Moderate,Low,6,24,44,34
+6073020705,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1081,Low,Moderate,Moderate,Moderate,34,57,58,51
+6073020706,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1391,Moderate,Moderate,Very High,High,54,56,85,73
+6073020707,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1309,Very Low,Low,Moderate,Low,18,39,41,37
+6073020708,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1007,Moderate,High,Very High,High,55,73,88,76
+6073020709,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1742,Moderate,Very High,High,High,44,90,79,68
+6073020710,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,234,High,High,Very High,Very High,74,77,100,93
+6073020801,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,895,Moderate,High,Moderate,Moderate,51,74,52,52
+6073020805,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,785,Moderate,High,Moderate,Moderate,51,66,53,53
+6073020806,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1615,Moderate,Low,Low,Low,49,39,36,40
+6073020807,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,460,Moderate,High,Moderate,Moderate,51,73,42,46
+6073020809,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1928,Moderate,Very Low,Moderate,Moderate,43,18,54,47
+6073020810,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1217,High,Very High,High,High,64,90,73,71
+6073020811,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1471,High,Very High,High,High,65,81,66,67
+6073020902,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,423,Moderate,Very High,Moderate,Moderate,56,84,50,55
+6073020903,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,398,Very Low,Very Low,Very Low,Very Low,15,6,2,2
+6073020904,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,261,Moderate,Very High,Very Low,Low,53,85,18,30
+6073021000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,345,Low,Very Low,Very Low,Very Low,36,2,18,15
+6073021100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1646,Very Low,High,Very Low,Very Low,14,73,2,4
+6073021202,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,963,Moderate,Low,Low,Moderate,58,34,40,45
+6073021204,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1065,Moderate,Very High,High,High,60,87,77,73
+6073021205,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1864,High,Very High,Low,Moderate,62,89,39,51
+6073021206,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,637,Moderate,High,Very High,High,57,74,86,75
+6073021302,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1163,Moderate,High,Very Low,Very Low,51,77,4,12
+6073021303,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2417,High,High,High,High,73,68,80,79
+6073021304,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,333,Moderate,Very High,Very High,High,58,94,85,78
+6073021400,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1707,High,Moderate,Moderate,Moderate,64,57,49,56
+6073021500,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2912,Very High,Very High,Very High,Very High,100,97,99,100
+6073021600,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,739,High,High,Low,Moderate,63,63,29,41
+6073021800,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,456,High,Very High,High,High,76,92,66,73
+6073021900,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,488,Low,Very Low,Very Low,Very Low,25,18,1,1
+6073022000,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,1153,Low,Moderate,Very Low,Very Low,27,52,14,19
+6073022100,2015,1,41740,"San Diego-Carlsbad, CA Metro Area",6073,6,CA,2917,Very High,Moderate,High,High,94,59,62,78
